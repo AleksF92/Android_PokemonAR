@@ -1,0 +1,2717 @@
+﻿[Bulbasaur]
+Base Stats: 45,49,49,65,65,45
+Type: Grass,Poison
+Species: Seed Pokémon
+Height: 0.71 m
+Weight: 6.9 kg
+Abilities: Overgrow
+Hidden Ability: Chlorophyll
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 64
+Growth Rate: Medium Slow
+Egg Group: Grass,Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: For some time after its birth, it grows by gaining nourishment from the seed on its back.
+
+[Ivysaur]
+Base Stats: 60,62,63,80,80,60
+Type: Grass,Poison
+Species: Seed Pokémon
+Height: 0.99 m
+Weight: 13.0 kg
+Abilities: Overgrow
+Hidden Ability: Chlorophyll
+EV Yield: 0,0,0,1,1,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 141
+Growth Rate: Medium Slow
+Egg Group: Grass,Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.
+
+[Venusaur]
+Base Stats: 80,82,83,100,100,80
+Type: Grass,Poison
+Species: Seed Pokémon
+Height: 2.01 m
+Weight: 100.0 kg
+Abilities: Overgrow
+Hidden Ability: Chlorophyll
+EV Yield: 0,0,0,2,1,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 208
+Growth Rate: Medium Slow
+Egg Group: Grass,Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.
+
+[Charmander]
+Base Stats: 39,52,43,60,50,65
+Type: Fire
+Species: Lizard Pokémon
+Height: 0.61 m
+Weight: 8.5 kg
+Abilities: Blaze
+Hidden Ability: Solar Power
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 65
+Growth Rate: Medium Slow
+Egg Group: Dragon,Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.
+
+[Charmeleon]
+Base Stats: 58,64,58,80,65,80
+Type: Fire
+Species: Flame Pokémon
+Height: 1.09 m
+Weight: 19.0 kg
+Abilities: Blaze
+Hidden Ability: Solar Power
+EV Yield: 0,0,0,1,0,1
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 142
+Growth Rate: Medium Slow
+Egg Group: Dragon,Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: When it swings its burning tail, it elevates the air temperature to unbearably high levels.
+
+[Charizard]
+Base Stats: 78,84,78,109,85,100
+Type: Fire,Flying
+Species: Flame Pokémon
+Height: 1.70 m
+Weight: 90.5 kg
+Abilities: Blaze
+Hidden Ability: Solar Power
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 209
+Growth Rate: Medium Slow
+Egg Group: Dragon,Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.
+
+[Squirtle]
+Base Stats: 44,48,65,50,64,43
+Type: Water
+Species: Tiny Turtle Pokémon
+Height: 0.51 m
+Weight: 9.0 kg
+Abilities: Torrent
+Hidden Ability: Rain Dish
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 66
+Growth Rate: Medium Slow
+Egg Group: Monster,Water 1
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: Shoots water at prey while in the water. Withdraws into its shell when in danger.
+
+[Wartortle]
+Base Stats: 59,63,80,65,80,58
+Type: Water
+Species: Turtle Pokémon
+Height: 0.99 m
+Weight: 22.5 kg
+Abilities: Torrent
+Hidden Ability: Rain Dish
+EV Yield: 0,0,1,0,1,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 143
+Growth Rate: Medium Slow
+Egg Group: Monster,Water 1
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.
+
+[Blastoise]
+Base Stats: 79,83,100,85,105,78
+Type: Water
+Species: Shellfish Pokémon
+Height: 1.60 m
+Weight: 85.5 kg
+Abilities: Torrent
+Hidden Ability: Rain Dish
+EV Yield: 0,0,0,0,3,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 210
+Growth Rate: Medium Slow
+Egg Group: Monster,Water 1
+Gender Rate: 87.5,12.5
+Egg Cycles: 21
+Description: The pressurized water jets on this brutal Pokémon’s shell are used for high-speed tackles.
+
+[Caterpie]
+Base Stats: 45,30,35,20,20,45
+Type: Bug
+Species: Worm Pokémon
+Height: 0.30 m
+Weight: 2.9 kg
+Abilities: Shield Dust
+Hidden Ability: Run Away
+EV Yield: 1,0,0,0,0,0
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 53
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.
+
+[Metapod]
+Base Stats: 50,20,55,25,25,30
+Type: Bug
+Species: Cocoon Pokémon
+Height: 0.71 m
+Weight: 9.9 kg
+Abilities: Shed Skin
+Hidden Ability: None
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 72
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.
+
+[Butterfree]
+Base Stats: 60,45,50,90,80,70
+Type: Bug,Flying
+Species: Butterfly Pokémon
+Height: 1.09 m
+Weight: 32.0 kg
+Abilities: Compound Eyes
+Hidden Ability: Tinted Lens
+EV Yield: 0,0,0,2,1,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 160
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.
+
+[Weedle]
+Base Stats: 40,35,30,20,20,50
+Type: Bug,Poison
+Species: Hairy Bug Pokémon
+Height: 0.30 m
+Weight: 3.2 kg
+Abilities: Shield Dust
+Hidden Ability: Run Away
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 52
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.
+
+[Kakuna]
+Base Stats: 45,25,50,25,25,35
+Type: Bug,Poison
+Species: Cocoon Pokémon
+Height: 0.61 m
+Weight: 10.0 kg
+Abilities: Shed Skin
+Hidden Ability: None
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 71
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: While awaiting evolution, it hides from predators under leaves and in nooks of branches.
+
+[Beedrill]
+Base Stats: 65,90,40,45,80,75
+Type: Bug,Poison
+Species: Poison Bee Pokémon
+Height: 0.99 m
+Weight: 29.5 kg
+Abilities: Swarm
+Hidden Ability: Sniper
+EV Yield: 0,2,0,0,1,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 159
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.
+
+[Pidgey]
+Base Stats: 40,45,40,35,35,56
+Type: Normal,Flying
+Species: Tiny Bird Pokémon
+Height: 0.30 m
+Weight: 1.8 kg
+Abilities: Keen Eye,Tangled Feet
+Hidden Ability: Big Pecks
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 55
+Growth Rate: Medium Slow
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.
+
+[Pidgeotto]
+Base Stats: 63,60,55,50,50,71
+Type: Normal,Flying
+Species: Bird Pokémon
+Height: 1.09 m
+Weight: 30.0 kg
+Abilities: Keen Eye,Tangled Feet
+Hidden Ability: Big Pecks
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 113
+Growth Rate: Medium Slow
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.
+
+[Pidgeot]
+Base Stats: 83,80,75,70,70,101
+Type: Normal,Flying
+Species: Bird Pokémon
+Height: 1.50 m
+Weight: 39.5 kg
+Abilities: Keen Eye,Tangled Feet
+Hidden Ability: Big Pecks
+EV Yield: 0,0,0,0,0,3
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 172
+Growth Rate: Medium Slow
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.
+
+[Rattata]
+Base Stats: 30,56,35,25,35,72
+Type: Normal
+Species: Mouse Pokémon
+Height: 0.30 m
+Weight: 3.5 kg
+Abilities: Guts,Run Away
+Hidden Ability: Hustle
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 57
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down.
+
+[Raticate]
+Base Stats: 55,81,60,50,70,97
+Type: Normal
+Species: Mouse Pokémon
+Height: 0.71 m
+Weight: 18.5 kg
+Abilities: Guts,Run Away
+Hidden Ability: Hustle
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 127
+Base Happiness: 70
+Base XP: 116
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: The webs on its hind legs enable it to cross rivers. It searches wide areas for food.
+
+[Spearow]
+Base Stats: 40,60,30,31,31,70
+Type: Normal,Flying
+Species: Tiny Bird Pokémon
+Height: 0.30 m
+Weight: 2.0 kg
+Abilities: Keen Eye
+Hidden Ability: Sniper
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 58
+Growth Rate: Medium Fast
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.
+
+[Fearow]
+Base Stats: 65,90,65,61,61,100
+Type: Normal,Flying
+Species: Beak Pokémon
+Height: 1.19 m
+Weight: 38.0 kg
+Abilities: Keen Eye
+Hidden Ability: Sniper
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 162
+Growth Rate: Medium Fast
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.
+
+[Ekans]
+Base Stats: 35,60,44,40,54,55
+Type: Poison
+Species: Snake Pokémon
+Height: 2.01 m
+Weight: 6.9 kg
+Abilities: Intimidate,Shed Skin
+Hidden Ability: Unnerve
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 62
+Growth Rate: Medium Fast
+Egg Group: Dragon,Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow, whole.
+
+[Arbok]
+Base Stats: 60,85,69,65,79,80
+Type: Poison
+Species: Cobra Pokémon
+Height: 3.51 m
+Weight: 65.0 kg
+Abilities: Intimidate,Shed Skin
+Hidden Ability: Unnerve
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 147
+Growth Rate: Medium Fast
+Egg Group: Dragon,Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth.
+
+[Pikachu]
+Base Stats: 35,55,40,50,50,90
+Type: Electric
+Species: Mouse Pokémon
+Height: 0.41 m
+Weight: 6.0 kg
+Abilities: Static
+Hidden Ability: Lightning Rod
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 82
+Growth Rate: Medium Fast
+Egg Group: Fairy,Field
+Gender Rate: 50,50
+Egg Cycles: 11
+Description: It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.
+
+[Raichu]
+Base Stats: 60,90,55,90,80,110
+Type: Electric
+Species: Mouse Pokémon
+Height: 0.79 m
+Weight: 30.0 kg
+Abilities: Static
+Hidden Ability: Lightning Rod
+EV Yield: 0,0,0,0,0,3
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 122
+Growth Rate: Medium Fast
+Egg Group: Fairy,Field
+Gender Rate: 50,50
+Egg Cycles: 11
+Description: It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.
+
+[Sandshrew]
+Base Stats: 50,75,85,20,30,40
+Type: Ground
+Species: Mouse Pokémon
+Height: 0.61 m
+Weight: 12.0 kg
+Abilities: Sand Veil
+Hidden Ability: Sand Rush
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 93
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.
+
+[Sandslash]
+Base Stats: 75,100,110,45,55,65
+Type: Ground
+Species: Mouse Pokémon
+Height: 0.99 m
+Weight: 29.5 kg
+Abilities: Sand Veil
+Hidden Ability: Sand Rush
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 163
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.
+
+[Nidoran_F]
+Base Stats: 55,47,52,40,40,41
+Type: Poison
+Species: Poison Pin Pokémon
+Height: 0.41 m
+Weight: 7.0 kg
+Abilities: Poison Point,Rivalry
+Hidden Ability: Hustle
+EV Yield: 1,0,0,0,0,0
+Catch Rate: 235
+Base Happiness: 70
+Base XP: 59
+Growth Rate: Medium Slow
+Egg Group: Field,Monster
+Gender Rate: 0,100
+Egg Cycles: 21
+Description: Small and very docile, it protects itself with its small, poisonous horn when attacked.
+
+[Nidorina]
+Base Stats: 70,62,67,55,55,56
+Type: Poison
+Species: Poison Pin Pokémon
+Height: 0.79 m
+Weight: 20.0 kg
+Abilities: Poison Point,Rivalry
+Hidden Ability: Hustle
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 117
+Growth Rate: Medium Slow
+Egg Group: Undiscovered
+Gender Rate: 0,100
+Egg Cycles: 21
+Description: When feeding its young, it first chews the food into a paste, then spits it out for the offspring.
+
+[Nidoqueen]
+Base Stats: 90,92,87,75,85,76
+Type: Poison,Ground
+Species: Drill Pokémon
+Height: 1.30 m
+Weight: 60.0 kg
+Abilities: Poison Point,Rivalry
+Hidden Ability: Sheer Force
+EV Yield: 3,0,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 194
+Growth Rate: Medium Slow
+Egg Group: Undiscovered
+Gender Rate: 0,100
+Egg Cycles: 21
+Description: The body is covered by stiff, needlelike scales. If it becomes excited, the needles bristle outwards.
+
+[Nidoran_M]
+Base Stats: 46,57,40,40,40,50
+Type: Poison
+Species: Poison Pin Pokémon
+Height: 0.51 m
+Weight: 9.0 kg
+Abilities: Poison Point,Rivalry
+Hidden Ability: Hustle
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 235
+Base Happiness: 70
+Base XP: 60
+Growth Rate: Medium Slow
+Egg Group: Field,Monster
+Gender Rate: 100,0
+Egg Cycles: 21
+Description: Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.
+
+[Nidorino]
+Base Stats: 61,72,57,55,55,65
+Type: Poison
+Species: Poison Pin Pokémon
+Height: 0.89 m
+Weight: 19.5 kg
+Abilities: Poison Point,Rivalry
+Hidden Ability: Hustle
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 118
+Growth Rate: Medium Slow
+Egg Group: Field,Monster
+Gender Rate: 100,0
+Egg Cycles: 21
+Description: An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.
+
+[Nidoking]
+Base Stats: 81,102,77,85,75,85
+Type: Poison,Ground
+Species: Drill Pokémon
+Height: 1.40 m
+Weight: 62.0 kg
+Abilities: Poison Point,Rivalry
+Hidden Ability: Sheer Force
+EV Yield: 0,3,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 195
+Growth Rate: Medium Slow
+Egg Group: Field,Monster
+Gender Rate: 100,0
+Egg Cycles: 21
+Description: One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
+
+[Clefairy]
+Base Stats: 70,45,48,60,65,35
+Type: Fairy
+Species: Fairy Pokémon
+Height: 0.61 m
+Weight: 7.5 kg
+Abilities: Cute Charm,Magic Guard
+Hidden Ability: Friend Guard
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 150
+Base Happiness: 140
+Base XP: 68
+Growth Rate: Fast
+Egg Group: Fairy
+Gender Rate: 25,75
+Egg Cycles: 11
+Description: The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.
+
+[Clefable]
+Base Stats: 95,70,73,95,90,60
+Type: Fairy
+Species: Fairy Pokémon
+Height: 1.30 m
+Weight: 40.0 kg
+Abilities: Cute Charm,Magic Guard
+Hidden Ability: Unaware
+EV Yield: 3,0,0,0,0,0
+Catch Rate: 25
+Base Happiness: 140
+Base XP: 129
+Growth Rate: Fast
+Egg Group: Fairy
+Gender Rate: 25,75
+Egg Cycles: 11
+Description: A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.
+
+[Vulpix]
+Base Stats: 38,41,40,50,65,65
+Type: Fire
+Species: Fox Pokémon
+Height: 0.61 m
+Weight: 9.9 kg
+Abilities: Flash Fire
+Hidden Ability: Drought
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 63
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 25,75
+Egg Cycles: 21
+Description: While young, it has six gorgeous tails. When it grows, several new tails are sprouted.
+
+[Ninetales]
+Base Stats: 73,76,75,81,100,100
+Type: Fire
+Species: Fox Pokémon
+Height: 1.09 m
+Weight: 19.9 kg
+Abilities: Flash Fire
+Hidden Ability: Drought
+EV Yield: 0,0,0,0,1,1
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 178
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 25,75
+Egg Cycles: 21
+Description: Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.
+
+[Jigglypuff]
+Base Stats: 115,45,20,45,25,20
+Type: Normal,Fairy
+Species: Balloon Pokémon
+Height: 0.51 m
+Weight: 5.5 kg
+Abilities: Competitive,Cute Charm
+Hidden Ability: Friend Guard
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 170
+Base Happiness: 70
+Base XP: 76
+Growth Rate: Fast
+Egg Group: Fairy
+Gender Rate: 25,75
+Egg Cycles: 11
+Description: If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.
+
+[Wigglytuff]
+Base Stats: 140,70,45,85,50,45
+Type: Normal,Fairy
+Species: Balloon Pokémon
+Height: 0.99 m
+Weight: 12.0 kg
+Abilities: Competitive,Cute Charm
+Hidden Ability: Frisk
+EV Yield: 3,0,0,0,0,0
+Catch Rate: 50
+Base Happiness: 70
+Base XP: 109
+Growth Rate: Fast
+Egg Group: Fairy
+Gender Rate: 25,75
+Egg Cycles: 11
+Description: The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.
+
+[Zubat]
+Base Stats: 40,45,35,30,40,55
+Type: Poison,Flying
+Species: Bat Pokémon
+Height: 0.79 m
+Weight: 7.5 kg
+Abilities: Inner Focus
+Hidden Ability: Infiltrator
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 54
+Growth Rate: Medium Fast
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.
+
+[Golbat]
+Base Stats: 75,80,70,65,75,90
+Type: Poison,Flying
+Species: Bat Pokémon
+Height: 1.60 m
+Weight: 55.0 kg
+Abilities: Inner Focus
+Hidden Ability: Infiltrator
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 171
+Growth Rate: Medium Fast
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.
+
+[Oddish]
+Base Stats: 45,50,55,75,65,30
+Type: Grass,Poison
+Species: Weed Pokémon
+Height: 0.51 m
+Weight: 5.4 kg
+Abilities: Chlorophyll
+Hidden Ability: Run Away
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 78
+Growth Rate: Medium Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots. 
+
+[Gloom]
+Base Stats: 60,65,70,85,75,40
+Type: Grass,Poison
+Species: Weed Pokémon
+Height: 0.79 m
+Weight: 8.6 kg
+Abilities: Chlorophyll
+Hidden Ability: Stench
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 132
+Growth Rate: Medium Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.
+
+[Vileplume]
+Base Stats: 75,80,85,110,90,50
+Type: Grass,Poison
+Species: Flower Pokémon
+Height: 1.19 m
+Weight: 18.6 kg
+Abilities: Chlorophyll
+Hidden Ability: Effect Spore
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 184
+Growth Rate: Medium Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
+
+[Paras]
+Base Stats: 35,70,55,45,55,25
+Type: Bug,Grass
+Species: Mushroom Pokémon
+Height: 0.30 m
+Weight: 5.4 kg
+Abilities: Dry Skin,Effect Spore
+Hidden Ability: Damp
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 70
+Growth Rate: Medium Fast
+Egg Group: Bug,Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+
+[Parasect]
+Base Stats: 60,95,80,60,80,30
+Type: Bug,Grass
+Species: Mushroom Pokémon
+Height: 0.99 m
+Weight: 29.5 kg
+Abilities: Dry Skin,Effect Spore
+Hidden Ability: Damp
+EV Yield: 0,2,1,0,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 128
+Growth Rate: Medium Fast
+Egg Group: Bug,Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.
+
+[Venonat]
+Base Stats: 60,55,50,40,55,45
+Type: Bug,Poison
+Species: Insect Pokémon
+Height: 0.99 m
+Weight: 30.0 kg
+Abilities: Compound Eyes,Tinted Lens
+Hidden Ability: Run Away
+EV Yield: 0,0,0,0,1,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 75
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.
+
+[Venomoth]
+Base Stats: 70,65,60,90,75,90
+Type: Bug,Poison
+Species: Poison Moth Pokémon
+Height: 1.50 m
+Weight: 12.5 kg
+Abilities: Shield Dust,Tinted Lens
+Hidden Ability: Wonder Skin
+EV Yield: 0,0,0,1,0,1
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 138
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.
+
+[Diglett]
+Base Stats: 10,55,25,35,45,95
+Type: Ground
+Species: Mole Pokémon
+Height: 0.20 m
+Weight: 0.8 kg
+Abilities: Arena Trap,Sand Veil
+Hidden Ability: Sand Force
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 81
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.
+
+[Dugtrio]
+Base Stats: 35,80,50,50,70,120
+Type: Ground
+Species: Mole Pokémon
+Height: 0.71 m
+Weight: 33.3 kg
+Abilities: Arena Trap,Sand Veil
+Hidden Ability: Sand Force
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 50
+Base Happiness: 70
+Base XP: 153
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.
+
+[Meowth]
+Base Stats: 40,45,35,40,40,90
+Type: Normal
+Species: Scratch Cat Pokémon
+Height: 0.41 m
+Weight: 4.2 kg
+Abilities: Pickup,Technician
+Hidden Ability: Unnerve
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 69
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.
+
+[Persian]
+Base Stats: 65,70,60,65,65,115
+Type: Normal
+Species: Classy Cat Pokémon
+Height: 0.99 m
+Weight: 32.0 kg
+Abilities: Limber,Technician
+Hidden Ability: Unnerve
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 148
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its lithe muscles allow it to walk without making a sound. It attacks in an instant.
+
+[Psyduck]
+Base Stats: 50,52,48,65,50,55
+Type: Water
+Species: Duck Pokémon
+Height: 0.79 m
+Weight: 19.6 kg
+Abilities: Cloud Nine,Damp
+Hidden Ability: Swift Swim
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 80
+Growth Rate: Medium Fast
+Egg Group: Field,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It has mystical powers but doesn’t recall that it has used them. That is why it always looks puzzled.
+
+[Golduck]
+Base Stats: 80,82,78,95,80,85
+Type: Water
+Species: Duck Pokémon
+Height: 1.70 m
+Weight: 76.6 kg
+Abilities: Cloud Nine,Damp
+Hidden Ability: Swift Swim
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 174
+Growth Rate: Medium Fast
+Egg Group: Field,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.
+
+[Mankey]
+Base Stats: 40,80,35,35,45,70
+Type: Fighting
+Species: Pig Monkey Pokémon
+Height: 0.51 m
+Weight: 28.0 kg
+Abilities: Anger Point,Vital Spirit
+Hidden Ability: Defiant
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 74
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.
+
+[Primeape]
+Base Stats: 65,105,60,60,70,95
+Type: Fighting
+Species: Pig Monkey Pokémon
+Height: 0.99 m
+Weight: 32.0 kg
+Abilities: Anger Point,Vital Spirit
+Hidden Ability: Defiant
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 149
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.
+
+[Growlithe]
+Base Stats: 55,70,45,70,50,60
+Type: Fire
+Species: Puppy Pokémon
+Height: 0.71 m
+Weight: 19.0 kg
+Abilities: Flash Fire,Intimidate
+Hidden Ability: Justified
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 91
+Growth Rate: Slow
+Egg Group: Field
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.
+
+[Arcanine]
+Base Stats: 90,110,80,100,80,95
+Type: Fire
+Species: Legendary Pokémon
+Height: 1.91 m
+Weight: 155.0 kg
+Abilities: Flash Fire,Intimidate
+Hidden Ability: Justified
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 213
+Growth Rate: Slow
+Egg Group: Field
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it.
+
+[Poliwag]
+Base Stats: 40,50,40,40,40,90
+Type: Water
+Species: Tadpole Pokémon
+Height: 0.61 m
+Weight: 12.4 kg
+Abilities: Damp,Water Absorb
+Hidden Ability: Swift Swim
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 77
+Growth Rate: Medium Slow
+Egg Group: Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.
+
+[Poliwhirl]
+Base Stats: 65,65,65,50,50,90
+Type: Water
+Species: Tadpole Pokémon
+Height: 0.99 m
+Weight: 20.0 kg
+Abilities: Damp,Water Absorb
+Hidden Ability: Swift Swim
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 131
+Growth Rate: Medium Slow
+Egg Group: Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its two legs are well developed. Even though it can live on the ground, it prefers living in water.
+
+[Poliwrath]
+Base Stats: 90,95,95,70,90,70
+Type: Water,Fighting
+Species: Tadpole Pokémon
+Height: 1.30 m
+Weight: 54.0 kg
+Abilities: Damp,Water Absorb
+Hidden Ability: Swift Swim
+EV Yield: 0,0,3,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 185
+Growth Rate: Medium Slow
+Egg Group: Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.
+
+[Abra]
+Base Stats: 25,20,15,105,55,90
+Type: Psychic
+Species: Psi Pokémon
+Height: 0.89 m
+Weight: 19.5 kg
+Abilities: Inner Focus,Synchronize
+Hidden Ability: Magic Guard
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 200
+Base Happiness: 70
+Base XP: 75
+Growth Rate: Medium Slow
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: It senses impending attacks and teleports away to safety before the actual attacks can strike.
+
+[Kadabra]
+Base Stats: 40,35,30,120,70,105
+Type: Psychic
+Species: Psi Pokémon
+Height: 1.30 m
+Weight: 56.5 kg
+Abilities: Inner Focus,Synchronize
+Hidden Ability: Magic Guard
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 100
+Base Happiness: 70
+Base XP: 145
+Growth Rate: Medium Slow
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: If it uses its abilities, it emits special alpha waves that cause machines to malfunction.
+
+[Alakazam]
+Base Stats: 55,50,45,135,95,120
+Type: Psychic
+Species: Psi Pokémon
+Height: 1.50 m
+Weight: 48.0 kg
+Abilities: Inner Focus,Synchronize
+Hidden Ability: Magic Guard
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 50
+Base Happiness: 70
+Base XP: 186
+Growth Rate: Medium Slow
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.
+
+[Machop]
+Base Stats: 70,80,50,35,35,35
+Type: Fighting
+Species: Superpower Pokémon
+Height: 0.79 m
+Weight: 19.5 kg
+Abilities: Guts,No Guard
+Hidden Ability: Steadfast
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 180
+Base Happiness: 70
+Base XP: 75
+Growth Rate: Medium Slow
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.
+
+[Machoke]
+Base Stats: 80,100,70,50,60,45
+Type: Fighting
+Species: Superpower Pokémon
+Height: 1.50 m
+Weight: 70.5 kg
+Abilities: Guts,No Guard
+Hidden Ability: Steadfast
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 146
+Growth Rate: Medium Slow
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.
+
+[Machamp]
+Base Stats: 90,130,80,65,85,55
+Type: Fighting
+Species: Superpower Pokémon
+Height: 1.60 m
+Weight: 130.0 kg
+Abilities: Guts,No Guard
+Hidden Ability: Steadfast
+EV Yield: 0,3,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 193
+Growth Rate: Medium Slow
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 21
+Description: It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.
+
+[Bellsprout]
+Base Stats: 50,75,35,70,30,40
+Type: Grass,Poison
+Species: Flower Pokémon
+Height: 0.71 m
+Weight: 4.0 kg
+Abilities: Chlorophyll
+Hidden Ability: Gluttony
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 84
+Growth Rate: Medium Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.
+
+[Weepinbell]
+Base Stats: 65,90,50,85,45,55
+Type: Grass,Poison
+Species: Flycatcher Pokémon
+Height: 0.99 m
+Weight: 6.4 kg
+Abilities: Chlorophyll
+Hidden Ability: Gluttony
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 151
+Growth Rate: Medium Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.
+
+[Victreebel]
+Base Stats: 80,105,65,100,70,70
+Type: Grass,Poison
+Species: Flycatcher Pokémon
+Height: 1.70 m
+Weight: 15.5 kg
+Abilities: Chlorophyll
+Hidden Ability: Gluttony
+EV Yield: 0,3,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 191
+Growth Rate: Medium Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Once ingested into this Pokémon’s body, even the hardest object will melt into nothing.
+
+[Tentacool]
+Base Stats: 40,40,35,50,100,70
+Type: Water,Poison
+Species: Jellyfish Pokémon
+Height: 0.89 m
+Weight: 45.5 kg
+Abilities: Clear Body,Liquid Ooze
+Hidden Ability: Rain Dish
+EV Yield: 0,0,0,0,1,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 105
+Growth Rate: Slow
+Egg Group: Water 3
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.
+
+[Tentacruel]
+Base Stats: 80,70,65,80,120,100
+Type: Water,Poison
+Species: Jellyfish Pokémon
+Height: 1.60 m
+Weight: 55.0 kg
+Abilities: Clear Body,Liquid Ooze
+Hidden Ability: Rain Dish
+EV Yield: 0,0,0,0,2,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 205
+Growth Rate: Slow
+Egg Group: Water 3
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.
+
+[Geodude]
+Base Stats: 40,80,100,30,30,20
+Type: Rock,Ground
+Species: Rock Pokémon
+Height: 0.41 m
+Weight: 20.0 kg
+Abilities: Rock Head,Sturdy
+Hidden Ability: Sand Veil
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 73
+Growth Rate: Medium Slow
+Egg Group: Mineral
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: It is impossible to distinguish from rocks. It slams against others in contests of hardness.
+
+[Graveler]
+Base Stats: 55,95,115,45,45,35
+Type: Rock,Ground
+Species: Rock Pokémon
+Height: 0.99 m
+Weight: 105.0 kg
+Abilities: Rock Head,Sturdy
+Hidden Ability: Sand Veil
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 134
+Growth Rate: Medium Slow
+Egg Group: Mineral
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.
+
+[Golem]
+Base Stats: 80,120,130,55,65,45
+Type: Rock,Ground
+Species: Megaton Pokémon
+Height: 1.40 m
+Weight: 300.0 kg
+Abilities: Rock Head,Sturdy
+Hidden Ability: Sand Veil
+EV Yield: 0,0,3,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 177
+Growth Rate: Medium Slow
+Egg Group: Mineral
+Gender Rate: 50,50
+Egg Cycles: 16
+Description: Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year.
+
+[Ponyta]
+Base Stats: 50,85,55,65,65,90
+Type: Fire
+Species: Fire Horse Pokémon
+Height: 0.99 m
+Weight: 30.0 kg
+Abilities: Flash Fire,Run Away
+Hidden Ability: Flame Body
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 152
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its legs grow strong while it chases after its parent. It runs in fields and mountains all day.
+
+[Rapidash]
+Base Stats: 65,100,70,80,80,105
+Type: Fire
+Species: Fire Horse Pokémon
+Height: 1.70 m
+Weight: 95.0 kg
+Abilities: Flash Fire,Run Away
+Hidden Ability: Flame Body
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 192
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.
+
+[Slowpoke]
+Base Stats: 90,65,65,40,40,15
+Type: Water,Psychic
+Species: Dopey Pokémon
+Height: 1.19 m
+Weight: 36.0 kg
+Abilities: Oblivious,Own Tempo
+Hidden Ability: Regenerator
+EV Yield: 1,0,0,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 99
+Growth Rate: Medium Fast
+Egg Group: Monster,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It lazes vacantly near water. If something bites its tail, it won’t even notice for a whole day.
+
+[Slowbro]
+Base Stats: 95,75,110,100,80,30
+Type: Water,Psychic
+Species: Hermit Crab Pokémon
+Height: 1.60 m
+Weight: 78.5 kg
+Abilities: Oblivious,Own Tempo
+Hidden Ability: Regenerator
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 164
+Growth Rate: Medium Fast
+Egg Group: Monster,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.
+
+[Magnemite]
+Base Stats: 25,35,70,95,55,45
+Type: Electric,Steel
+Species: Magnet Pokémon
+Height: 0.30 m
+Weight: 6.0 kg
+Abilities: Magnet Pull,Sturdy
+Hidden Ability: Analytic
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 89
+Growth Rate: Medium Fast
+Egg Group: Mineral
+Gender Rate: None
+Egg Cycles: 21
+Description: It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.
+
+[Magneton]
+Base Stats: 50,60,95,120,70,70
+Type: Electric,Steel
+Species: Magnet Pokémon
+Height: 0.99 m
+Weight: 60.0 kg
+Abilities: Magnet Pull,Sturdy
+Hidden Ability: Analytic
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 161
+Growth Rate: Medium Fast
+Egg Group: Mineral
+Gender Rate: None
+Egg Cycles: 21
+Description: Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.
+
+[Farfetch_Ad]
+Base Stats: 52,65,55,58,62,60
+Type: Normal,Flying
+Species: Wild Duck Pokémon
+Height: 0.79 m
+Weight: 15.0 kg
+Abilities: Inner Focus,Keen Eye
+Hidden Ability: Defiant
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 94
+Growth Rate: Medium Fast
+Egg Group: Field,Flying
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.
+
+[Doduo]
+Base Stats: 35,85,45,35,35,75
+Type: Normal,Flying
+Species: Twin Bird Pokémon
+Height: 1.40 m
+Weight: 39.2 kg
+Abilities: Early Bird,Run Away
+Hidden Ability: Tangled Feet
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 96
+Growth Rate: Medium Fast
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The brains in its two heads appear to communicate emotions to each other with a telepathic power.
+
+[Dodrio]
+Base Stats: 60,110,70,60,60,100
+Type: Normal,Flying
+Species: Triple Bird Pokémon
+Height: 1.80 m
+Weight: 85.2 kg
+Abilities: Early Bird,Run Away
+Hidden Ability: Tangled Feet
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 158
+Growth Rate: Medium Fast
+Egg Group: Flying
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.
+
+[Seel]
+Base Stats: 65,45,55,45,70,45
+Type: Water
+Species: Sea Lion Pokémon
+Height: 1.09 m
+Weight: 90.0 kg
+Abilities: Hydration,Thick Fat
+Hidden Ability: Ice Body
+EV Yield: 0,0,0,0,1,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 100
+Growth Rate: Medium Fast
+Egg Group: Field,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.
+
+[Dewgong]
+Base Stats: 90,70,80,70,95,70
+Type: Water,Ice
+Species: Sea Lion Pokémon
+Height: 1.70 m
+Weight: 120.0 kg
+Abilities: Hydration,Thick Fat
+Hidden Ability: Ice Body
+EV Yield: 0,0,0,0,2,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 176
+Growth Rate: Medium Fast
+Egg Group: Field,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.
+
+[Grimer]
+Base Stats: 80,80,50,40,50,25
+Type: Poison
+Species: Sludge Pokémon
+Height: 0.89 m
+Weight: 30.0 kg
+Abilities: Stench,Sticky Hold
+Hidden Ability: Poison Touch
+EV Yield: 1,0,0,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 90
+Growth Rate: Medium Fast
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.
+
+[Muk]
+Base Stats: 105,105,75,65,100,50
+Type: Poison
+Species: Sludge Pokémon
+Height: 1.19 m
+Weight: 30.0 kg
+Abilities: Stench,Sticky Hold
+Hidden Ability: Poison Touch
+EV Yield: 1,1,0,0,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 157
+Growth Rate: Medium Fast
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.
+
+[Shellder]
+Base Stats: 30,65,100,45,25,40
+Type: Water
+Species: Bivalve Pokémon
+Height: 0.30 m
+Weight: 4.0 kg
+Abilities: Shell Armor,Skill Link
+Hidden Ability: Overcoat
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 97
+Growth Rate: Slow
+Egg Group: Water 3
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.
+
+[Cloyster]
+Base Stats: 50,95,180,85,45,70
+Type: Water,Ice
+Species: Bivalve Pokémon
+Height: 1.50 m
+Weight: 132.5 kg
+Abilities: Shell Armor,Skill Link
+Hidden Ability: Overcoat
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 203
+Growth Rate: Slow
+Egg Group: Water 3
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.
+
+[Gastly]
+Base Stats: 30,35,30,100,35,80
+Type: Ghost,Poison
+Species: Gas Pokémon
+Height: 1.30 m
+Weight: 0.1 kg
+Abilities: Levitate
+Hidden Ability: None
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 95
+Growth Rate: Medium Slow
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.
+
+[Haunter]
+Base Stats: 45,50,45,115,55,95
+Type: Ghost,Poison
+Species: Gas Pokémon
+Height: 1.60 m
+Weight: 0.1 kg
+Abilities: Levitate
+Hidden Ability: None
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 126
+Growth Rate: Medium Slow
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It licks with its gaseous tongue to steal the victim’s life force. It lurks in darkness for prey.
+
+[Gengar]
+Base Stats: 60,65,60,130,75,110
+Type: Ghost,Poison
+Species: Shadow Pokémon
+Height: 1.50 m
+Weight: 40.5 kg
+Abilities: Levitate
+Hidden Ability: None
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 190
+Growth Rate: Medium Slow
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Hiding in people’s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.
+
+[Onix]
+Base Stats: 35,45,160,30,45,70
+Type: Rock,Ground
+Species: Rock Snake Pokémon
+Height: 8.79 m
+Weight: 210.0 kg
+Abilities: Rock Head,Sturdy
+Hidden Ability: Weak Armor
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 108
+Growth Rate: Medium Fast
+Egg Group: Mineral
+Gender Rate: 50,50
+Egg Cycles: 26
+Description: It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.
+
+[Drowzee]
+Base Stats: 60,48,45,43,90,42
+Type: Psychic
+Species: Hypnosis Pokémon
+Height: 0.99 m
+Weight: 32.4 kg
+Abilities: Forewarn,Insomnia
+Hidden Ability: Inner Focus
+EV Yield: 0,0,0,0,1,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 102
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: If you think that you had a good dream but you can’t remember it, a Drowzee has probably eaten it.
+
+[Hypno]
+Base Stats: 85,73,70,73,115,67
+Type: Psychic
+Species: Hypnosis Pokémon
+Height: 1.60 m
+Weight: 75.6 kg
+Abilities: Forewarn,Insomnia
+Hidden Ability: Inner Focus
+EV Yield: 0,0,0,0,2,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 165
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.
+
+[Krabby]
+Base Stats: 30,105,90,25,25,50
+Type: Water
+Species: River Crab Pokémon
+Height: 0.41 m
+Weight: 6.5 kg
+Abilities: Hyper Cutter,Shell Armor
+Hidden Ability: Sheer Force
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 225
+Base Happiness: 70
+Base XP: 115
+Growth Rate: Medium Fast
+Egg Group: Water 3
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It can be found near the sea. The large pincers grow back if they are torn out of their sockets.
+
+[Kingler]
+Base Stats: 55,130,115,50,50,75
+Type: Water
+Species: Pincer Pokémon
+Height: 1.30 m
+Weight: 60.0 kg
+Abilities: Hyper Cutter,Shell Armor
+Hidden Ability: Sheer Force
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 206
+Growth Rate: Medium Fast
+Egg Group: Water 3
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.
+
+[Voltorb]
+Base Stats: 40,30,50,55,55,100
+Type: Electric
+Species: Ball Pokémon
+Height: 0.51 m
+Weight: 10.4 kg
+Abilities: Soundproof,Static
+Hidden Ability: Aftermath
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 103
+Growth Rate: Medium Fast
+Egg Group: Mineral
+Gender Rate: None
+Egg Cycles: 21
+Description: Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.
+
+[Electrode]
+Base Stats: 60,50,70,80,80,140
+Type: Electric
+Species: Ball Pokémon
+Height: 1.19 m
+Weight: 66.6 kg
+Abilities: Soundproof,Static
+Hidden Ability: Aftermath
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 150
+Growth Rate: Medium Fast
+Egg Group: Mineral
+Gender Rate: None
+Egg Cycles: 21
+Description: It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.
+
+[Exeggcute]
+Base Stats: 60,40,80,60,45,40
+Type: Grass,Psychic
+Species: Egg Pokémon
+Height: 0.41 m
+Weight: 2.5 kg
+Abilities: Chlorophyll
+Hidden Ability: Harvest
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 90
+Base Happiness: 70
+Base XP: 98
+Growth Rate: Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.
+
+[Exeggutor]
+Base Stats: 95,95,85,125,65,55
+Type: Grass,Psychic
+Species: Coconut Pokémon
+Height: 2.01 m
+Weight: 120.0 kg
+Abilities: Chlorophyll
+Hidden Ability: Harvest
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 212
+Growth Rate: Slow
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.
+
+[Cubone]
+Base Stats: 50,50,95,40,50,35
+Type: Ground
+Species: Lonely Pokémon
+Height: 0.41 m
+Weight: 6.5 kg
+Abilities: Lightning Rod,Rock Head
+Hidden Ability: Battle Armor
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 87
+Growth Rate: Medium Fast
+Egg Group: Monster
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.
+
+[Marowak]
+Base Stats: 60,80,110,50,80,45
+Type: Ground
+Species: Bone Keeper Pokémon
+Height: 0.99 m
+Weight: 45.0 kg
+Abilities: Lightning Rod,Rock Head
+Hidden Ability: Battle Armor
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 124
+Growth Rate: Medium Fast
+Egg Group: Monster
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.
+
+[Hitmonlee]
+Base Stats: 50,120,53,35,110,87
+Type: Fighting
+Species: Kicking Pokémon
+Height: 1.50 m
+Weight: 49.8 kg
+Abilities: Limber,Reckless
+Hidden Ability: Unburden
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 139
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 100,0
+Egg Cycles: 26
+Description: If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe.
+
+[Hitmonchan]
+Base Stats: 50,105,79,35,110,76
+Type: Fighting
+Species: Punching Pokémon
+Height: 1.40 m
+Weight: 50.2 kg
+Abilities: Iron Fist,Keen Eye
+Hidden Ability: Inner Focus
+EV Yield: 0,0,0,0,2,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 140
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 100,0
+Egg Cycles: 26
+Description: The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.
+
+[Lickitung]
+Base Stats: 90,55,75,60,75,30
+Type: Normal
+Species: Licking Pokémon
+Height: 1.19 m
+Weight: 65.5 kg
+Abilities: Oblivious,Own Tempo
+Hidden Ability: Cloud Nine
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 127
+Growth Rate: Medium Fast
+Egg Group: Monster
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.
+
+[Koffing]
+Base Stats: 40,65,95,60,45,35
+Type: Poison
+Species: Poison Gas Pokémon
+Height: 0.61 m
+Weight: 1.0 kg
+Abilities: Levitate
+Hidden Ability: None
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 190
+Base Happiness: 70
+Base XP: 114
+Growth Rate: Medium Fast
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.
+
+[Weezing]
+Base Stats: 65,90,120,85,70,60
+Type: Poison
+Species: Poison Gas Pokémon
+Height: 1.19 m
+Weight: 9.5 kg
+Abilities: Levitate
+Hidden Ability: None
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 173
+Growth Rate: Medium Fast
+Egg Group: Amorphous
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.
+
+[Rhyhorn]
+Base Stats: 80,85,95,30,30,25
+Type: Ground,Rock
+Species: Spikes Pokémon
+Height: 0.99 m
+Weight: 115.0 kg
+Abilities: Lightning Rod,Rock Head
+Hidden Ability: Reckless
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 120
+Base Happiness: 70
+Base XP: 135
+Growth Rate: Slow
+Egg Group: Field,Monster
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It is inept at turning because of its four short legs. It can only charge and run in one direction.
+
+[Rhydon]
+Base Stats: 105,130,120,45,45,40
+Type: Ground,Rock
+Species: Drill Pokémon
+Height: 1.91 m
+Weight: 120.0 kg
+Abilities: Lightning Rod,Rock Head
+Hidden Ability: Reckless
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 204
+Growth Rate: Slow
+Egg Group: Field,Monster
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+
+[Chansey]
+Base Stats: 250,5,5,35,105,50
+Type: Normal
+Species: Egg Pokémon
+Height: 1.09 m
+Weight: 34.6 kg
+Abilities: Natural Cure,Serene Grace
+Hidden Ability: Healer
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 30
+Base Happiness: 140
+Base XP: 255
+Growth Rate: Fast
+Egg Group: Fairy
+Gender Rate: 0,100
+Egg Cycles: 41
+Description: It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.
+
+[Tangela]
+Base Stats: 65,55,115,100,40,60
+Type: Grass
+Species: Vine Pokémon
+Height: 0.99 m
+Weight: 35.0 kg
+Abilities: Chlorophyll,Leaf Guard
+Hidden Ability: Regenerator
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 166
+Growth Rate: Medium Fast
+Egg Group: Grass
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.
+
+[Kangaskhan]
+Base Stats: 105,95,80,40,80,90
+Type: Normal
+Species: Parent Pokémon
+Height: 2.21 m
+Weight: 80.0 kg
+Abilities: Early Bird,Scrappy
+Hidden Ability: Inner Focus
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 175
+Growth Rate: Medium Fast
+Egg Group: Monster
+Gender Rate: 0,100
+Egg Cycles: 21
+Description: If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.
+
+[Horsea]
+Base Stats: 30,40,70,70,25,60
+Type: Water
+Species: Dragon Pokémon
+Height: 0.41 m
+Weight: 8.0 kg
+Abilities: Sniper,Swift Swim
+Hidden Ability: Damp
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 225
+Base Happiness: 70
+Base XP: 83
+Growth Rate: Medium Fast
+Egg Group: Dragon,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.
+
+[Seadra]
+Base Stats: 55,65,95,95,45,85
+Type: Water
+Species: Dragon Pokémon
+Height: 1.19 m
+Weight: 25.0 kg
+Abilities: Poison Point,Sniper
+Hidden Ability: Damp
+EV Yield: 0,0,1,1,0,0
+Catch Rate: 75
+Base Happiness: 70
+Base XP: 155
+Growth Rate: Medium Fast
+Egg Group: Dragon,Water 1
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.
+
+[Goldeen]
+Base Stats: 45,67,60,35,50,63
+Type: Water
+Species: Goldfish Pokémon
+Height: 0.61 m
+Weight: 15.0 kg
+Abilities: Swift Swim,Water Veil
+Hidden Ability: Lightning Rod
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 225
+Base Happiness: 70
+Base XP: 111
+Growth Rate: Medium Fast
+Egg Group: Water 2
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the water dancer.
+
+[Seaking]
+Base Stats: 80,92,65,65,80,68
+Type: Water
+Species: Goldfish Pokémon
+Height: 1.30 m
+Weight: 39.0 kg
+Abilities: Swift Swim,Water Veil
+Hidden Ability: Lightning Rod
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 170
+Growth Rate: Medium Fast
+Egg Group: Water 2
+Gender Rate: 50,50
+Egg Cycles: 21
+Description: It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.
+
+[Staryu]
+Base Stats: 30,45,55,70,55,85
+Type: Water
+Species: Star Shape Pokémon
+Height: 0.79 m
+Weight: 34.5 kg
+Abilities: Illuminate,Natural Cure
+Hidden Ability: Analytic
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 225
+Base Happiness: 70
+Base XP: 106
+Growth Rate: Slow
+Egg Group: Water 3
+Gender Rate: None
+Egg Cycles: 21
+Description: It appears in large numbers by seashores. At night, its central core flashes with a red light.
+
+[Starmie]
+Base Stats: 60,75,85,100,85,115
+Type: Water,Psychic
+Species: Mysterious Pokémon
+Height: 1.09 m
+Weight: 80.0 kg
+Abilities: Illuminate,Natural Cure
+Hidden Ability: Analytic
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 60
+Base Happiness: 70
+Base XP: 207
+Growth Rate: Slow
+Egg Group: Water 3
+Gender Rate: None
+Egg Cycles: 21
+Description: At the center of its body is a red core, which sends mysterious radio signals into the night sky.
+
+[Mr_PMime]
+Base Stats: 40,45,65,100,120,90
+Type: Psychic,Fairy
+Species: Barrier Pokémon
+Height: 1.30 m
+Weight: 54.5 kg
+Abilities: Filter,Soundproof
+Hidden Ability: Technician
+EV Yield: 0,0,0,0,2,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 136
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 50,50
+Egg Cycles: 26
+Description: It is adept at conning people. It is said to be able to create walls out of thin air by miming.
+
+[Scyther]
+Base Stats: 70,110,80,55,80,105
+Type: Bug,Flying
+Species: Mantis Pokémon
+Height: 1.50 m
+Weight: 56.0 kg
+Abilities: Swarm,Technician
+Hidden Ability: Steadfast
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 187
+Growth Rate: Medium Fast
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 26
+Description: It slashes through grass with its sharp scythes, moving too fast for the human eye to track.
+
+[Jynx]
+Base Stats: 65,50,35,115,95,95
+Type: Ice,Psychic
+Species: Human Shape Pokémon
+Height: 1.40 m
+Weight: 40.6 kg
+Abilities: Forewarn,Oblivious
+Hidden Ability: Dry Skin
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 137
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 0,100
+Egg Cycles: 26
+Description: It speaks using a language that sounds human. Research is under way to determine what is being said.
+
+[Electabuzz]
+Base Stats: 65,83,57,95,85,105
+Type: Electric
+Species: Electric Pokémon
+Height: 1.09 m
+Weight: 30.0 kg
+Abilities: Static
+Hidden Ability: Vital Spirit
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 156
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 26
+Description: It loves to feed on strong electricity. It occasionally appears around large power plants and so on.
+
+[Magmar]
+Base Stats: 65,95,57,100,85,93
+Type: Fire
+Species: Spitfire Pokémon
+Height: 1.30 m
+Weight: 44.5 kg
+Abilities: Flame Body
+Hidden Ability: Vital Spirit
+EV Yield: 0,0,0,2,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 167
+Growth Rate: Medium Fast
+Egg Group: Human-Like
+Gender Rate: 75,25
+Egg Cycles: 26
+Description: Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.
+
+[Pinsir]
+Base Stats: 65,125,100,55,70,85
+Type: Bug
+Species: Stag Beetle Pokémon
+Height: 1.50 m
+Weight: 55.0 kg
+Abilities: Hyper Cutter,Mold Breaker
+Hidden Ability: Moxie
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 200
+Growth Rate: Slow
+Egg Group: Bug
+Gender Rate: 50,50
+Egg Cycles: 26
+Description: It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.
+
+[Tauros]
+Base Stats: 75,100,95,40,70,110
+Type: Normal
+Species: Wild Bull Pokémon
+Height: 1.40 m
+Weight: 88.4 kg
+Abilities: Anger Point,Intimidate
+Hidden Ability: Sheer Force
+EV Yield: 0,1,0,0,0,1
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 211
+Growth Rate: Slow
+Egg Group: Field
+Gender Rate: 100,0
+Egg Cycles: 21
+Description: When it is about to tackle, it whips its body repeatedly with its three long tails.
+
+[Magikarp]
+Base Stats: 20,10,55,15,20,80
+Type: Water
+Species: Fish Pokémon
+Height: 0.89 m
+Weight: 10.0 kg
+Abilities: Swift Swim
+Hidden Ability: Rattled
+EV Yield: 0,0,0,0,0,1
+Catch Rate: 255
+Base Happiness: 70
+Base XP: 20
+Growth Rate: Slow
+Egg Group: Dragon,Water 2
+Gender Rate: 50,50
+Egg Cycles: 6
+Description: In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.
+
+[Gyarados]
+Base Stats: 95,125,79,60,100,81
+Type: Water,Flying
+Species: Atrocious Pokémon
+Height: 6.50 m
+Weight: 235.0 kg
+Abilities: Intimidate
+Hidden Ability: Moxie
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 214
+Growth Rate: Slow
+Egg Group: Dragon,Water 2
+Gender Rate: 50,50
+Egg Cycles: 6
+Description: Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.
+
+[Lapras]
+Base Stats: 130,85,80,85,95,60
+Type: Water,Ice
+Species: Transport Pokémon
+Height: 2.49 m
+Weight: 220.0 kg
+Abilities: Shell Armor,Water Absorb
+Hidden Ability: Hydration
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 219
+Growth Rate: Slow
+Egg Group: Monster,Water 1
+Gender Rate: 50,50
+Egg Cycles: 41
+Description: Its high intelligence enables it to understand human speech. It likes to ferry people on its back.
+
+[Ditto]
+Base Stats: 48,48,48,48,48,48
+Type: Normal
+Species: Transform Pokémon
+Height: 0.30 m
+Weight: 4.0 kg
+Abilities: Limber
+Hidden Ability: Imposter
+EV Yield: 1,0,0,0,0,0
+Catch Rate: 35
+Base Happiness: 70
+Base XP: 61
+Growth Rate: Medium Fast
+Egg Group: Ditto
+Gender Rate: None
+Egg Cycles: 21
+Description: It can freely recombine its own cellular structure to transform into other life-forms.
+
+[Eevee]
+Base Stats: 55,55,50,45,65,55
+Type: Normal
+Species: Evolution Pokémon
+Height: 0.30 m
+Weight: 6.5 kg
+Abilities: Adaptability,Run Away
+Hidden Ability: Anticipation
+EV Yield: 0,0,0,0,1,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 92
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 87.5,12.5
+Egg Cycles: 36
+Description: Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.
+
+[Vaporeon]
+Base Stats: 130,65,60,110,95,65
+Type: Water
+Species: Bubble Jet Pokémon
+Height: 0.99 m
+Weight: 29.0 kg
+Abilities: Water Absorb
+Hidden Ability: Hydration
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 196
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 87.5,12.5
+Egg Cycles: 36
+Description: It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.
+
+[Jolteon]
+Base Stats: 65,65,60,110,95,130
+Type: Electric
+Species: Lightning Pokémon
+Height: 0.79 m
+Weight: 24.5 kg
+Abilities: Volt Absorb
+Hidden Ability: Quick Feet
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 197
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 87.5,12.5
+Egg Cycles: 36
+Description: It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.
+
+[Flareon]
+Base Stats: 65,130,60,95,110,65
+Type: Fire
+Species: Flame Pokémon
+Height: 0.89 m
+Weight: 25.0 kg
+Abilities: Flash Fire
+Hidden Ability: Guts
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 198
+Growth Rate: Medium Fast
+Egg Group: Field
+Gender Rate: 87.5,12.5
+Egg Cycles: 36
+Description: It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,000 degrees Fahrenheit.
+
+[Porygon]
+Base Stats: 65,60,70,85,75,40
+Type: Normal
+Species: Virtual Pokémon
+Height: 0.79 m
+Weight: 36.5 kg
+Abilities: Download,Trace
+Hidden Ability: Analytic
+EV Yield: 0,0,0,1,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 130
+Growth Rate: Medium Fast
+Egg Group: Mineral
+Gender Rate: None
+Egg Cycles: 21
+Description: A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.
+
+[Omanyte]
+Base Stats: 35,40,100,90,55,35
+Type: Rock,Water
+Species: Spiral Pokémon
+Height: 0.41 m
+Weight: 7.5 kg
+Abilities: Shell Armor,Swift Swim
+Hidden Ability: Weak Armor
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 99
+Growth Rate: Medium Fast
+Egg Group: Water 1,Water 3
+Gender Rate: 87.5,12.5
+Egg Cycles: 31
+Description: Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.
+
+[Omastar]
+Base Stats: 70,60,125,115,70,55
+Type: Rock,Water
+Species: Spiral Pokémon
+Height: 0.99 m
+Weight: 35.0 kg
+Abilities: Shell Armor,Swift Swim
+Hidden Ability: Weak Armor
+EV Yield: 0,0,2,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 199
+Growth Rate: Medium Fast
+Egg Group: Water 1,Water 3
+Gender Rate: 87.5,12.5
+Egg Cycles: 31
+Description: Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.
+
+[Kabuto]
+Base Stats: 30,80,90,55,45,55
+Type: Rock,Water
+Species: Shellfish Pokémon
+Height: 0.51 m
+Weight: 11.5 kg
+Abilities: Battle Armor,Swift Swim
+Hidden Ability: Weak Armor
+EV Yield: 0,0,1,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 99
+Growth Rate: Medium Fast
+Egg Group: Water 1,Water 3
+Gender Rate: 87.5,12.5
+Egg Cycles: 31
+Description: This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.
+
+[Kabutops]
+Base Stats: 60,115,105,65,70,80
+Type: Rock,Water
+Species: Shellfish Pokémon
+Height: 1.30 m
+Weight: 40.5 kg
+Abilities: Battle Armor,Swift Swim
+Hidden Ability: Weak Armor
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 199
+Growth Rate: Medium Fast
+Egg Group: Water 1,Water 3
+Gender Rate: 87.5,12.5
+Egg Cycles: 31
+Description: A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
+
+[Aerodactyl]
+Base Stats: 80,105,65,60,75,130
+Type: Rock,Flying
+Species: Fossil Pokémon
+Height: 1.80 m
+Weight: 59.0 kg
+Abilities: Pressure,Rock Head
+Hidden Ability: Unnerve
+EV Yield: 0,0,0,0,0,2
+Catch Rate: 45
+Base Happiness: 70
+Base XP: 202
+Growth Rate: Slow
+Egg Group: Flying
+Gender Rate: 87.5,12.5
+Egg Cycles: 36
+Description: This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.
+
+[Snorlax]
+Base Stats: 160,110,65,65,110,30
+Type: Normal
+Species: Sleeping Pokémon
+Height: 2.11 m
+Weight: 460.0 kg
+Abilities: Immunity,Thick Fat
+Hidden Ability: Gluttony
+EV Yield: 2,0,0,0,0,0
+Catch Rate: 25
+Base Happiness: 70
+Base XP: 154
+Growth Rate: Slow
+Egg Group: Monster
+Gender Rate: 87.5,12.5
+Egg Cycles: 41
+Description: Its stomach can digest any kind of food, even if it happens to be moldy or rotten.
+
+[Articuno]
+Base Stats: 90,85,100,95,125,85
+Type: Ice,Flying
+Species: Freeze Pokémon
+Height: 1.70 m
+Weight: 55.4 kg
+Abilities: Pressure
+Hidden Ability: Snow Cloak
+EV Yield: 0,0,0,0,3,0
+Catch Rate: 3
+Base Happiness: 35
+Base XP: 215
+Growth Rate: Slow
+Egg Group: Undiscovered
+Gender Rate: None
+Egg Cycles: 81
+Description: A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.
+
+[Zapdos]
+Base Stats: 90,90,85,125,90,100
+Type: Electric,Flying
+Species: Electric Pokémon
+Height: 1.60 m
+Weight: 52.6 kg
+Abilities: Pressure
+Hidden Ability: Static
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 3
+Base Happiness: 35
+Base XP: 216
+Growth Rate: Slow
+Egg Group: Undiscovered
+Gender Rate: None
+Egg Cycles: 81
+Description: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.
+
+[Moltres]
+Base Stats: 90,100,90,125,85,90
+Type: Fire,Flying
+Species: Flame Pokémon
+Height: 2.01 m
+Weight: 60.0 kg
+Abilities: Pressure
+Hidden Ability: Flame Body
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 3
+Base Happiness: 35
+Base XP: 217
+Growth Rate: Slow
+Egg Group: Undiscovered
+Gender Rate: None
+Egg Cycles: 81
+Description: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.
+
+[Dratini]
+Base Stats: 41,64,45,50,50,50
+Type: Dragon
+Species: Dragon Pokémon
+Height: 1.80 m
+Weight: 3.3 kg
+Abilities: Shed Skin
+Hidden Ability: Marvel Scale
+EV Yield: 0,1,0,0,0,0
+Catch Rate: 45
+Base Happiness: 35
+Base XP: 67
+Growth Rate: Slow
+Egg Group: Dragon,Water 1
+Gender Rate: 50,50
+Egg Cycles: 41
+Description: This Pokémon is full of life energy. It continually sheds its skin and grows steadily larger.
+
+[Dragonair]
+Base Stats: 61,84,65,70,70,70
+Type: Dragon
+Species: Dragon Pokémon
+Height: 3.99 m
+Weight: 16.5 kg
+Abilities: Shed Skin
+Hidden Ability: Marvel Scale
+EV Yield: 0,2,0,0,0,0
+Catch Rate: 45
+Base Happiness: 35
+Base XP: 144
+Growth Rate: Slow
+Egg Group: Dragon,Water 1
+Gender Rate: 50,50
+Egg Cycles: 41
+Description: A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.
+
+[Dragonite]
+Base Stats: 91,134,95,100,100,80
+Type: Dragon,Flying
+Species: Dragon Pokémon
+Height: 2.21 m
+Weight: 210.0 kg
+Abilities: Inner Focus
+Hidden Ability: Multiscale
+EV Yield: 0,3,0,0,0,0
+Catch Rate: 45
+Base Happiness: 35
+Base XP: 218
+Growth Rate: Slow
+Egg Group: Dragon,Water 1
+Gender Rate: 50,50
+Egg Cycles: 41
+Description: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.
+
+[Mewtwo]
+Base Stats: 106,110,90,154,90,130
+Type: Psychic
+Species: Genetic Pokémon
+Height: 2.01 m
+Weight: 122.0 kg
+Abilities: Pressure
+Hidden Ability: Unnerve
+EV Yield: 0,0,0,3,0,0
+Catch Rate: 3
+Base Happiness: 0
+Base XP: 220
+Growth Rate: Slow
+Egg Group: Undiscovered
+Gender Rate: None
+Egg Cycles: 121
+Description: A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.
+
+[Mew]
+Base Stats: 100,100,100,100,100,100
+Type: Psychic
+Species: New Species Pokémon
+Height: 0.41 m
+Weight: 4.0 kg
+Abilities: Synchronize
+Hidden Ability: None
+EV Yield: 3,0,0,0,0,0
+Catch Rate: 45
+Base Happiness: 100
+Base XP: 64
+Growth Rate: Medium Slow
+Egg Group: Undiscovered
+Gender Rate: None
+Egg Cycles: 121
+Description: Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.

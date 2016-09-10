@@ -1,0 +1,5588 @@
+﻿[Absorb]
+Type: Grass
+Category: Special
+Power: 20
+Accuracy: 100
+PP: 25
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Acid]
+Type: Poison
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Acid Armor]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Sharply raises user's Defense.
+Chance: -
+
+[Acid Spray]
+Type: Poison
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 20
+Effect: Sharply lowers opponent's Special Defense.
+Chance: 100
+
+[Acrobatics]
+Type: Flying
+Category: Physical
+Power: 55
+Accuracy: 100
+PP: 15
+Effect: Stronger when the user does not have a held item.
+Chance: -
+
+[Acupressure]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Sharply raises a random stat.
+Chance: -
+
+[Aerial Ace]
+Type: Flying
+Category: Physical
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Aeroblast]
+Type: Flying
+Category: Special
+Power: 100
+Accuracy: 95
+PP: 5
+Effect: High critical hit ratio.
+Chance: -
+
+[After You]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Gives target priority in the next turn.
+Chance: -
+
+[Agility]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Sharply raises user's Speed.
+Chance: -
+
+[Air Cutter]
+Type: Flying
+Category: Special
+Power: 60
+Accuracy: 95
+PP: 25
+Effect: High critical hit ratio.
+Chance: -
+
+[Air Slash]
+Type: Flying
+Category: Special
+Power: 75
+Accuracy: 95
+PP: 20
+Effect: May cause flinching.
+Chance: 30
+
+[Ally Switch]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: User switches with opposite teammate.
+Chance: -
+
+[Amnesia]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Sharply raises user's Special Defense.
+Chance: -
+
+[Ancient Power]
+Type: Rock
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 5
+Effect: May raise all user's stats at once.
+Chance: 10
+
+[Aqua Jet]
+Type: Water
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 20
+Effect: User attacks first.
+Chance: -
+
+[Aqua Ring]
+Type: Water
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Restores a little HP each turn.
+Chance: -
+
+[Aqua Tail]
+Type: Water
+Category: Physical
+Power: 90
+Accuracy: 90
+PP: 10
+Effect:  
+Chance: -
+
+[Arm Thrust]
+Type: Fighting
+Category: Physical
+Power: 15
+Accuracy: 100
+PP: 20
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Aromatherapy]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Cures all status problems in your party.
+Chance: -
+
+[Aromatic Mist]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Raises Special Defense of allies.
+Chance: -
+
+[Assist]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: In a Double Battle, user randomly attacks with a partner's move.
+Chance: -
+
+[Assurance]
+Type: Dark
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 10
+Effect: Power doubles if opponent already took damage in the same turn.
+Chance: -
+
+[Astonish]
+Type: Ghost
+Category: Physical
+Power: 30
+Accuracy: 100
+PP: 15
+Effect: May cause flinching.
+Chance: 30
+
+[Attack Order]
+Type: Bug
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: High critical hit ratio.
+Chance: -
+
+[Attract]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: If opponent is the opposite gender, it's less likely to attack.
+Chance: -
+
+[Aura Sphere]
+Type: Fighting
+Category: Special
+Power: 80
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Aurora Beam]
+Type: Ice
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May lower opponent's Attack.
+Chance: 10
+
+[Autotomize]
+Type: Steel
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Halves weight and sharply raises Speed.
+Chance: -
+
+[Avalanche]
+Type: Ice
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 10
+Effect: Power doubles if user took damage first.
+Chance: -
+
+[Baby-Doll Eyes]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Always goes first. Lowers the target's attack.
+Chance: -
+
+[Barrage]
+Type: Normal
+Category: Physical
+Power: 15
+Accuracy: 85
+PP: 20
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Barrier]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Sharply raises user's Defense.
+Chance: -
+
+[Baton Pass]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: User switches out and gives stat changes to the incoming Pokémon.
+Chance: -
+
+[Beat Up]
+Type: Dark
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Each Pokémon in your party attacks.
+Chance: -
+
+[Belch]
+Type: Poison
+Category: Special
+Power: 120
+Accuracy: 90
+PP: 10
+Effect: User must have consumed a Berry.
+Chance: -
+
+[Belly Drum]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User loses 50% of its max HP, but Attack raises to maximum.
+Chance: -
+
+[Bestow]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Gives the user's held item to the target.
+Chance: -
+
+[Bide]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: -
+PP: 10
+Effect: User takes damage for two turns then strikes back double.
+Chance: -
+
+[Bind]
+Type: Normal
+Category: Physical
+Power: 15
+Accuracy: 85
+PP: 20
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Bite]
+Type: Dark
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 25
+Effect: May cause flinching.
+Chance: 30
+
+[Blast Burn]
+Type: Fire
+Category: Special
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Blaze Kick]
+Type: Fire
+Category: Physical
+Power: 85
+Accuracy: 90
+PP: 10
+Effect: High critical hit ratio. May burn opponent.
+Chance: 10
+
+[Blizzard]
+Type: Ice
+Category: Special
+Power: 110
+Accuracy: 70
+PP: 5
+Effect: May freeze opponent.
+Chance: 10
+
+[Block]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Opponent cannot flee or switch.
+Chance: -
+
+[Blue Flare]
+Type: Fire
+Category: Special
+Power: 130
+Accuracy: 85
+PP: 5
+Effect: May burn opponent.
+Chance: 20
+
+[Body Slam]
+Type: Normal
+Category: Physical
+Power: 85
+Accuracy: 100
+PP: 15
+Effect: May paralyze opponent.
+Chance: 30
+
+[Bolt Strike]
+Type: Electric
+Category: Physical
+Power: 130
+Accuracy: 85
+PP: 5
+Effect: May paralyze opponent.
+Chance: 20
+
+[Bone Club]
+Type: Ground
+Category: Physical
+Power: 65
+Accuracy: 85
+PP: 20
+Effect: May cause flinching.
+Chance: 10
+
+[Bone Rush]
+Type: Ground
+Category: Physical
+Power: 25
+Accuracy: 90
+PP: 10
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Bonemerang]
+Type: Ground
+Category: Physical
+Power: 50
+Accuracy: 90
+PP: 10
+Effect: Hits twice in one turn.
+Chance: -
+
+[Boomburst]
+Type: Normal
+Category: Special
+Power: 140
+Accuracy: 100
+PP: 10
+Effect: Hits all adjacent Pokémon.
+Chance: -
+
+[Bounce]
+Type: Flying
+Category: Physical
+Power: 85
+Accuracy: 85
+PP: 5
+Effect: Springs up on first turn, attacks on second. May paralyze opponent.
+Chance: 30
+
+[Brave Bird]
+Type: Flying
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage.
+Chance: -
+
+[Brick Break]
+Type: Fighting
+Category: Physical
+Power: 75
+Accuracy: 100
+PP: 15
+Effect: Breaks through Reflect and Light Screen barriers.
+Chance: -
+
+[Brine]
+Type: Water
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 10
+Effect: Power doubles if opponent's HP is less than 50%.
+Chance: -
+
+[Bubble]
+Type: Water
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: May lower opponent's Speed.
+Chance: 10
+
+[Bubble Beam]
+Type: Water
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May lower opponent's Speed.
+Chance: 10
+
+[Bug Bite]
+Type: Bug
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 20
+Effect: Receives the effect from the opponent's held berry.
+Chance: -
+
+[Bug Buzz]
+Type: Bug
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Bulk Up]
+Type: Fighting
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Attack and Defense.
+Chance: -
+
+[Bulldoze]
+Type: Ground
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Bullet Punch]
+Type: Steel
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: User attacks first.
+Chance: -
+
+[Bullet Seed]
+Type: Grass
+Category: Physical
+Power: 25
+Accuracy: 100
+PP: 30
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Calm Mind]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Special Attack and Special Defense.
+Chance: -
+
+[Camouflage]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Changes user's type according to the location.
+Chance: -
+
+[Captivate]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Sharply lowers opponent's Special Attack if opposite gender.
+Chance: -
+
+[Celebrate]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: The Pokémon congratulates you on your special day. No battle effect.
+Chance: -
+
+[Charge]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Special Defense and next Electric move's power increases.
+Chance: -
+
+[Charge Beam]
+Type: Electric
+Category: Special
+Power: 50
+Accuracy: 90
+PP: 10
+Effect: May raise user's Special Attack.
+Chance: 70
+
+[Charm]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Sharply lowers opponent's Attack.
+Chance: -
+
+[Chatter]
+Type: Flying
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: Confuses opponent.
+Chance: 100
+
+[Chip Away]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: Ignores opponent's stat changes.
+Chance: -
+
+[Circle Throw]
+Type: Fighting
+Category: Physical
+Power: 60
+Accuracy: 90
+PP: 10
+Effect: In battles, the opponent switches. In the wild, the Pokémon runs.
+Chance: -
+
+[Clamp]
+Type: Water
+Category: Physical
+Power: 35
+Accuracy: 85
+PP: 10
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Clear Smog]
+Type: Poison
+Category: Special
+Power: 50
+Accuracy: -
+PP: 15
+Effect: Removes all of the target's stat changes.
+Chance: -
+
+[Close Combat]
+Type: Fighting
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 5
+Effect: Lowers user's Defense and Special Defense.
+Chance: -
+
+[Coil]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Attack, Defense and Accuracy.
+Chance: -
+
+[Comet Punch]
+Type: Normal
+Category: Physical
+Power: 18
+Accuracy: 85
+PP: 15
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Confide]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Lowers opponent's Special Attack.
+Chance: -
+
+[Confuse Ray]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Confuses opponent.
+Chance: -
+
+[Confusion]
+Type: Psychic
+Category: Special
+Power: 50
+Accuracy: 100
+PP: 25
+Effect: May confuse opponent.
+Chance: 10
+
+[Constrict]
+Type: Normal
+Category: Physical
+Power: 10
+Accuracy: 100
+PP: 35
+Effect: May lower opponent's Speed by one stage.
+Chance: 10
+
+[Conversion]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Changes user's type to that of its first move.
+Chance: -
+
+[Conversion 2]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: User changes type to become resistant to opponent's last move.
+Chance: -
+
+[Copycat]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Copies opponent's last move.
+Chance: -
+
+[Cosmic Power]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Defense and Special Defense.
+Chance: -
+
+[Cotton Guard]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Drastically raises user's Defense.
+Chance: -
+
+[Cotton Spore]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 100
+PP: 40
+Effect: Sharply lowers opponent's Speed.
+Chance: -
+
+[Counter]
+Type: Fighting
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 20
+Effect: When hit by a Physical Attack, user strikes back with 2x power.
+Chance: -
+
+[Covet]
+Type: Normal
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 25
+Effect: Opponent's item is stolen by the user.
+Chance: -
+
+[Crabhammer]
+Type: Water
+Category: Physical
+Power: 100
+Accuracy: 90
+PP: 10
+Effect: High critical hit ratio.
+Chance: -
+
+[Crafty Shield]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Protects the Pokémon from status moves.
+Chance: -
+
+[Cross Chop]
+Type: Fighting
+Category: Physical
+Power: 100
+Accuracy: 80
+PP: 5
+Effect: High critical hit ratio.
+Chance: -
+
+[Cross Poison]
+Type: Poison
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: High critical hit ratio. May poison opponent.
+Chance: 10
+
+[Crunch]
+Type: Dark
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May lower opponent's Defense.
+Chance: 20
+
+[Crush Claw]
+Type: Normal
+Category: Physical
+Power: 75
+Accuracy: 95
+PP: 10
+Effect: May lower opponent's Defense.
+Chance: 50
+
+[Crush Grip]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 5
+Effect: More powerful when opponent has higher HP.
+Chance: -
+
+[Curse]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.
+Chance: -
+
+[Cut]
+Type: Normal
+Category: Physical
+Power: 50
+Accuracy: 95
+PP: 30
+Effect:  
+Chance: -
+
+[Dark Pulse]
+Type: Dark
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May cause flinching.
+Chance: 20
+
+[Dark Void]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 80
+PP: 10
+Effect: Puts all adjacent opponents to sleep.
+Chance: -
+
+[Dazzling Gleam]
+Type: Fairy
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Hits all adjacent opponents.
+Chance: -
+
+[Defend Order]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Raises user's Defense and Special Defense.
+Chance: -
+
+[Defense Curl]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Raises user's Defense.
+Chance: -
+
+[Defog]
+Type: Flying
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Lowers opponent's Evasiveness and clears fog.
+Chance: -
+
+[Destiny Bond]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: If the user faints, the opponent also faints.
+Chance: -
+
+[Detect]
+Type: Fighting
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Opponent's attack doesn't affect you, but may fail if used often.
+Chance: -
+
+[Diamond Storm]
+Type: Rock
+Category: Physical
+Power: 100
+Accuracy: 95
+PP: 5
+Effect: May raise user's Defense
+Chance: 50
+
+[Dig]
+Type: Ground
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Digs underground on first turn, attacks on second. Can also escape from caves.
+Chance: -
+
+[Disable]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Opponent can't use its last attack for a few turns.
+Chance: -
+
+[Disarming Voice]
+Type: Fairy
+Category: Special
+Power: 40
+Accuracy: ∞
+PP: 15
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Discharge]
+Type: Electric
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May paralyze opponent.
+Chance: 30
+
+[Dive]
+Type: Water
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Dives underwater on first turn, attacks on second turn.
+Chance: -
+
+[Dizzy Punch]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 10
+Effect: May confuse opponent.
+Chance: 20
+
+[Doom Desire]
+Type: Steel
+Category: Special
+Power: 140
+Accuracy: 100
+PP: 5
+Effect: Damage occurs 2 turns later.
+Chance: -
+
+[Double Hit]
+Type: Normal
+Category: Physical
+Power: 35
+Accuracy: 90
+PP: 10
+Effect: Hits twice in one turn.
+Chance: -
+
+[Double Kick]
+Type: Fighting
+Category: Physical
+Power: 30
+Accuracy: 100
+PP: 30
+Effect: Hits twice in one turn.
+Chance: -
+
+[Double Slap]
+Type: Normal
+Category: Physical
+Power: 15
+Accuracy: 85
+PP: 10
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Double Team]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Raises user's Evasiveness.
+Chance: -
+
+[Double-Edge]
+Type: Normal
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage.
+Chance: -
+
+[Draco Meteor]
+Type: Dragon
+Category: Special
+Power: 130
+Accuracy: 90
+PP: 5
+Effect: Sharply lowers user's Special Attack.
+Chance: -
+
+[Dragon Ascent]
+Type: Flying
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 5
+Effect: Lowers user's Defense and Special Defense.
+Chance: -
+
+[Dragon Breath]
+Type: Dragon
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 20
+Effect: May paralyze opponent.
+Chance: 30
+
+[Dragon Claw]
+Type: Dragon
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect:  
+Chance: -
+
+[Dragon Dance]
+Type: Dragon
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Attack and Speed.
+Chance: -
+
+[Dragon Pulse]
+Type: Dragon
+Category: Special
+Power: 85
+Accuracy: 100
+PP: 10
+Effect:  
+Chance: -
+
+[Dragon Rage]
+Type: Dragon
+Category: Special
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Always inflicts 40 HP.
+Chance: -
+
+[Dragon Rush]
+Type: Dragon
+Category: Physical
+Power: 100
+Accuracy: 75
+PP: 10
+Effect: May cause flinching.
+Chance: 20
+
+[Dragon Tail]
+Type: Dragon
+Category: Physical
+Power: 60
+Accuracy: 90
+PP: 10
+Effect: In battles, the opponent switches. In the wild, the Pokémon runs.
+Chance: -
+
+[Drain Punch]
+Type: Fighting
+Category: Physical
+Power: 75
+Accuracy: 100
+PP: 10
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Draining Kiss]
+Type: Fairy
+Category: Special
+Power: 50
+Accuracy: 100
+PP: 10
+Effect: User recovers most the HP inflicted on opponent.
+Chance: -
+
+[Dream Eater]
+Type: Psychic
+Category: Special
+Power: 100
+Accuracy: 100
+PP: 15
+Effect: User recovers half the HP inflicted on a sleeping opponent.
+Chance: -
+
+[Drill Peck]
+Type: Flying
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 20
+Effect:  
+Chance: -
+
+[Drill Run]
+Type: Ground
+Category: Physical
+Power: 80
+Accuracy: 95
+PP: 10
+Effect: High critical hit ratio.
+Chance: -
+
+[Dual Chop]
+Type: Dragon
+Category: Physical
+Power: 40
+Accuracy: 90
+PP: 15
+Effect: Hits twice in one turn.
+Chance: -
+
+[Dynamic Punch]
+Type: Fighting
+Category: Physical
+Power: 100
+Accuracy: 50
+PP: 5
+Effect: Confuses opponent.
+Chance: 100
+
+[Earth Power]
+Type: Ground
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Earthquake]
+Type: Ground
+Category: Physical
+Power: 100
+Accuracy: 100
+PP: 10
+Effect: Power is doubled if opponent is underground from using Dig.
+Chance: -
+
+[Echoed Voice]
+Type: Normal
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 15
+Effect: Power increases each turn.
+Chance: -
+
+[Eerie Impulse]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Sharply lowers opponent's Special Attack.
+Chance: -
+
+[Egg Bomb]
+Type: Normal
+Category: Physical
+Power: 100
+Accuracy: 75
+PP: 10
+Effect:  
+Chance: -
+
+[Electric Terrain]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Prevents all Pokémon from falling asleep for 5 turns.
+Chance: -
+
+[Electrify]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Changes the target's move to Electric type.
+Chance: -
+
+[Electro Ball]
+Type: Electric
+Category: Special
+Power: -
+Accuracy: 100
+PP: 10
+Effect: The faster the user, the stronger the attack.
+Chance: -
+
+[Electroweb]
+Type: Electric
+Category: Special
+Power: 55
+Accuracy: 95
+PP: 15
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Embargo]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Opponent cannot use items.
+Chance: -
+
+[Ember]
+Type: Fire
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 25
+Effect: May burn opponent.
+Chance: 10
+
+[Encore]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 5
+Effect: Forces opponent to keep using its last move for 3 turns.
+Chance: -
+
+[Endeavor]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 5
+Effect: Reduces opponent's HP to same as user's.
+Chance: -
+
+[Endure]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Always left with at least 1 HP, but may fail if used consecutively.
+Chance: -
+
+[Energy Ball]
+Type: Grass
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Entrainment]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Makes target's ability same as user's.
+Chance: -
+
+[Eruption]
+Type: Fire
+Category: Special
+Power: 150
+Accuracy: 100
+PP: 5
+Effect: Stronger when the user's HP is higher.
+Chance: -
+
+[Explosion]
+Type: Normal
+Category: Physical
+Power: 250
+Accuracy: 100
+PP: 5
+Effect: User faints.
+Chance: -
+
+[Extrasensory]
+Type: Psychic
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 20
+Effect: May cause flinching.
+Chance: 10
+
+[Extreme Speed]
+Type: Normal
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 5
+Effect: User attacks first.
+Chance: -
+
+[Facade]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: Power doubles if user is burned, poisoned, or paralyzed.
+Chance: -
+
+[Fairy Lock]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Prevents fleeing in the next turn.
+Chance: -
+
+[Fairy Wind]
+Type: Fairy
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 30
+Effect:  
+Chance: -
+
+[Fake Out]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 10
+Effect: User attacks first, foe flinches. Only usable on first turn.
+Chance: 100
+
+[Fake Tears]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Sharply lowers opponent's Special Defense.
+Chance: -
+
+[False Swipe]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 40
+Effect: Always leaves opponent with at least 1 HP.
+Chance: -
+
+[Feather Dance]
+Type: Flying
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Sharply lowers opponent's Attack.
+Chance: -
+
+[Feint]
+Type: Normal
+Category: Physical
+Power: 30
+Accuracy: 100
+PP: 10
+Effect: Only hits if opponent uses Protect or Detect in the same turn.
+Chance: -
+
+[Feint Attack]
+Type: Dark
+Category: Physical
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Fell Stinger]
+Type: Bug
+Category: Physical
+Power: 30
+Accuracy: 100
+PP: 25
+Effect: Sharply raises user's Attack if target is KO'd.
+Chance: -
+
+[Fiery Dance]
+Type: Fire
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: May raise user's Special Attack.
+Chance: 50
+
+[Final Gambit]
+Type: Fighting
+Category: Special
+Power: -
+Accuracy: 100
+PP: 5
+Effect: Inflicts damage equal to the user's remaining HP. User faints.
+Chance: -
+
+[Fire Blast]
+Type: Fire
+Category: Special
+Power: 110
+Accuracy: 85
+PP: 5
+Effect: May burn opponent.
+Chance: 10
+
+[Fire Fang]
+Type: Fire
+Category: Physical
+Power: 65
+Accuracy: 95
+PP: 15
+Effect: May cause flinching and/or burn opponent.
+Chance: 10
+
+[Fire Pledge]
+Type: Fire
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Added effects appear if combined with Grass Pledge or Water Pledge.
+Chance: -
+
+[Fire Punch]
+Type: Fire
+Category: Physical
+Power: 75
+Accuracy: 100
+PP: 15
+Effect: May burn opponent.
+Chance: 10
+
+[Fire Spin]
+Type: Fire
+Category: Special
+Power: 35
+Accuracy: 85
+PP: 15
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Fissure]
+Type: Ground
+Category: Physical
+Power: -
+Accuracy: -
+PP: 5
+Effect: One-Hit-KO, if it hits.
+Chance: -
+
+[Flail]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 15
+Effect: The lower the user's HP, the higher the power.
+Chance: -
+
+[Flame Burst]
+Type: Fire
+Category: Special
+Power: 70
+Accuracy: 100
+PP: 15
+Effect: May also injure nearby Pokémon.
+Chance: -
+
+[Flame Charge]
+Type: Fire
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 20
+Effect: Raises user's Speed.
+Chance: 100
+
+[Flame Wheel]
+Type: Fire
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 25
+Effect: May burn opponent.
+Chance: 10
+
+[Flamethrower]
+Type: Fire
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: May burn opponent.
+Chance: 10
+
+[Flare Blitz]
+Type: Fire
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage. May burn opponent.
+Chance: 10
+
+[Flash]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Accuracy.
+Chance: -
+
+[Flash Cannon]
+Type: Steel
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Flatter]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Confuses opponent, but raises its Special Attack by two stages.
+Chance: -
+
+[Fling]
+Type: Dark
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Power depends on held item.
+Chance: -
+
+[Flower Shield]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Sharply raises Defense of all Grass-type Pokémon on the field.
+Chance: -
+
+[Fly]
+Type: Flying
+Category: Physical
+Power: 90
+Accuracy: 95
+PP: 15
+Effect: Flies up on first turn, attacks on second turn.
+Chance: -
+
+[Flying Press]
+Type: Fighting
+Category: Physical
+Power: 80
+Accuracy: 95
+PP: 10
+Effect: Deals Fighting and Flying type damage.
+Chance: -
+
+[Focus Blast]
+Type: Fighting
+Category: Special
+Power: 120
+Accuracy: 70
+PP: 5
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Focus Energy]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Increases critical hit ratio.
+Chance: -
+
+[Focus Punch]
+Type: Fighting
+Category: Physical
+Power: 150
+Accuracy: 100
+PP: 20
+Effect: If the user is hit before attacking, it flinches instead.
+Chance: -
+
+[Follow Me]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: In Double Battle, the user takes all the attacks.
+Chance: -
+
+[Force Palm]
+Type: Fighting
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 10
+Effect: May paralyze opponent.
+Chance: 30
+
+[Foresight]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.
+Chance: -
+
+[Forest's Curse]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Adds Grass type to opponent.
+Chance: -
+
+[Foul Play]
+Type: Dark
+Category: Physical
+Power: 95
+Accuracy: 100
+PP: 15
+Effect: Uses the opponent's Attack stat.
+Chance: -
+
+[Freeze Shock]
+Type: Ice
+Category: Physical
+Power: 140
+Accuracy: 90
+PP: 5
+Effect: Charges on first turn, attacks on second. May paralyze opponent.
+Chance: 30
+
+[Freeze-Dry]
+Type: Ice
+Category: Special
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: May freeze opponent. Super-effective against Water types.
+Chance: -
+
+[Frenzy Plant]
+Type: Grass
+Category: Special
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Frost Breath]
+Type: Ice
+Category: Special
+Power: 60
+Accuracy: 90
+PP: 10
+Effect: Always results in a critical hit.
+Chance: 100
+
+[Frustration]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Power decreases with higher Happiness.
+Chance: -
+
+[Fury Attack]
+Type: Normal
+Category: Physical
+Power: 15
+Accuracy: 85
+PP: 20
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Fury Cutter]
+Type: Bug
+Category: Physical
+Power: 40
+Accuracy: 95
+PP: 20
+Effect: Power increases each turn.
+Chance: -
+
+[Fury Swipes]
+Type: Normal
+Category: Physical
+Power: 18
+Accuracy: 80
+PP: 15
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Fusion Bolt]
+Type: Electric
+Category: Physical
+Power: 100
+Accuracy: 100
+PP: 5
+Effect: Power increases if Fusion Flare is used in the same turn.
+Chance: -
+
+[Fusion Flare]
+Type: Fire
+Category: Special
+Power: 100
+Accuracy: 100
+PP: 5
+Effect: Power increases if Fusion Bolt is used in the same turn.
+Chance: -
+
+[Future Sight]
+Type: Psychic
+Category: Special
+Power: 120
+Accuracy: 100
+PP: 10
+Effect: Damage occurs 2 turns later.
+Chance: -
+
+[Gastro Acid]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Cancels out the effect of the opponent's Ability.
+Chance: -
+
+[Gear Grind]
+Type: Steel
+Category: Physical
+Power: 50
+Accuracy: 85
+PP: 15
+Effect: Hits twice in one turn.
+Chance: -
+
+[Geomancy]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second.
+Chance: -
+
+[Giga Drain]
+Type: Grass
+Category: Special
+Power: 75
+Accuracy: 100
+PP: 10
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Giga Impact]
+Type: Normal
+Category: Physical
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Glaciate]
+Type: Ice
+Category: Special
+Power: 65
+Accuracy: 95
+PP: 10
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Glare]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Paralyzes opponent.
+Chance: -
+
+[Grass Knot]
+Type: Grass
+Category: Special
+Power: -
+Accuracy: 100
+PP: 20
+Effect: The heavier the opponent, the stronger the attack.
+Chance: -
+
+[Grass Pledge]
+Type: Grass
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Chance: -
+
+[Grass Whistle]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 55
+PP: 15
+Effect: Puts opponent to sleep.
+Chance: -
+
+[Grassy Terrain]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Restores a little HP of all Pokémon for 5 turns. 
+Chance: -
+
+[Gravity]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+Chance: -
+
+[Growl]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 40
+Effect: Lowers opponent's Attack.
+Chance: -
+
+[Growth]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Raises user's Attack and Special Attack.
+Chance: -
+
+[Grudge]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: If the users faints after using this move, the PP for the opponent's last move is depleted.
+Chance: -
+
+[Guard Split]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Averages Defense and Special Defense with the target.
+Chance: -
+
+[Guard Swap]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User and opponent swap Defense and Special Defense.
+Chance: -
+
+[Guillotine]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: -
+PP: 5
+Effect: One-Hit-KO, if it hits.
+Chance: -
+
+[Gunk Shot]
+Type: Poison
+Category: Physical
+Power: 120
+Accuracy: 80
+PP: 5
+Effect: May poison opponent.
+Chance: 30
+
+[Gust]
+Type: Flying
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 35
+Effect: Hits Pokémon using Fly/Bounce with double power.
+Chance: -
+
+[Gyro Ball]
+Type: Steel
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 5
+Effect: The slower the user, the stronger the attack.
+Chance: -
+
+[Hail]
+Type: Ice
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Non-Ice types are damaged for 5 turns.
+Chance: -
+
+[Hammer Arm]
+Type: Fighting
+Category: Physical
+Power: 100
+Accuracy: 90
+PP: 10
+Effect: Lowers user's Speed.
+Chance: -
+
+[Happy Hour]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Doubles prize money from trainer battles.
+Chance: -
+
+[Harden]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Raises user's Defense.
+Chance: -
+
+[Haze]
+Type: Ice
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Resets all stat changes.
+Chance: -
+
+[Head Charge]
+Type: Normal
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage.
+Chance: -
+
+[Head Smash]
+Type: Rock
+Category: Physical
+Power: 150
+Accuracy: 80
+PP: 5
+Effect: User receives recoil damage.
+Chance: -
+
+[Headbutt]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 15
+Effect: May cause flinching.
+Chance: 30
+
+[Heal Bell]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Heals the user's party's status conditions.
+Chance: -
+
+[Heal Block]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Prevents the opponent from restoring HP for 5 turns.
+Chance: -
+
+[Heal Order]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User recovers half its max HP.
+Chance: -
+
+[Heal Pulse]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Restores half the target's max HP.
+Chance: -
+
+[Healing Wish]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: The user faints and the next Pokémon released is fully healed.
+Chance: -
+
+[Heart Stamp]
+Type: Psychic
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 25
+Effect: May cause flinching.
+Chance: 30
+
+[Heart Swap]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Stat changes are swapped with the opponent.
+Chance: -
+
+[Heat Crash]
+Type: Fire
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 10
+Effect: The heavier the user, the stronger the attack.
+Chance: -
+
+[Heat Wave]
+Type: Fire
+Category: Special
+Power: 95
+Accuracy: 90
+PP: 10
+Effect: May burn opponent.
+Chance: 10
+
+[Heavy Slam]
+Type: Steel
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 10
+Effect: The heavier the user, the stronger the attack.
+Chance: -
+
+[Helping Hand]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: In Double Battles, boosts the power of the partner's move.
+Chance: -
+
+[Hex]
+Type: Ghost
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 10
+Effect: Inflicts more damage if the target has a status condition.
+Chance: -
+
+[Hidden Power]
+Type: Normal
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 15
+Effect: Type and power depends on user's IVs.
+Chance: -
+
+[High Jump Kick]
+Type: Fighting
+Category: Physical
+Power: 130
+Accuracy: 90
+PP: 10
+Effect: If it misses, the user loses half their HP.
+Chance: -
+
+[Hold Back]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 40
+Effect: Always leaves opponent with at least 1 HP.
+Chance: -
+
+[Hold Hands]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Makes the user and an ally very happy.
+Chance: -
+
+[Hone Claws]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Raises user's Attack and Accuracy.
+Chance: -
+
+[Horn Attack]
+Type: Normal
+Category: Physical
+Power: 65
+Accuracy: 100
+PP: 25
+Effect:  
+Chance: -
+
+[Horn Drill]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: -
+PP: 5
+Effect: One-Hit-KO, if it hits.
+Chance: -
+
+[Horn Leech]
+Type: Grass
+Category: Physical
+Power: 75
+Accuracy: 100
+PP: 10
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Howl]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Raises user's Attack.
+Chance: -
+
+[Hurricane]
+Type: Flying
+Category: Special
+Power: 110
+Accuracy: 70
+PP: 10
+Effect: May confuse opponent.
+Chance: 30
+
+[Hydro Cannon]
+Type: Water
+Category: Special
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Hydro Pump]
+Type: Water
+Category: Special
+Power: 110
+Accuracy: 80
+PP: 5
+Effect:  
+Chance: -
+
+[Hyper Beam]
+Type: Normal
+Category: Special
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Hyper Fang]
+Type: Normal
+Category: Physical
+Power: 80
+Accuracy: 90
+PP: 15
+Effect: May cause flinching.
+Chance: 10
+
+[Hyper Voice]
+Type: Normal
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect:  
+Chance: -
+
+[Hyperspace Fury]
+Type: Dark
+Category: Physical
+Power: 100
+Accuracy: ∞
+PP: 5
+Effect: Lowers user's Defense. Can strike through Protect/Detect.
+Chance: -
+
+[Hyperspace Hole]
+Type: Psychic
+Category: Special
+Power: 80
+Accuracy: ∞
+PP: 5
+Effect: Can strike through Protect/Detect.
+Chance: -
+
+[Hypnosis]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: 60
+PP: 20
+Effect: Puts opponent to sleep.
+Chance: -
+
+[Ice Ball]
+Type: Ice
+Category: Physical
+Power: 30
+Accuracy: 90
+PP: 20
+Effect: Doubles in power each turn for 5 turns.
+Chance: -
+
+[Ice Beam]
+Type: Ice
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: May freeze opponent.
+Chance: 10
+
+[Ice Burn]
+Type: Ice
+Category: Special
+Power: 140
+Accuracy: 90
+PP: 5
+Effect: Charges on first turn, attacks on second. May burn opponent.
+Chance: 30
+
+[Ice Fang]
+Type: Ice
+Category: Physical
+Power: 65
+Accuracy: 95
+PP: 15
+Effect: May cause flinching and/or freeze opponent.
+Chance: 10
+
+[Ice Punch]
+Type: Ice
+Category: Physical
+Power: 75
+Accuracy: 100
+PP: 15
+Effect: May freeze opponent.
+Chance: 10
+
+[Ice Shard]
+Type: Ice
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: User attacks first.
+Chance: -
+
+[Icicle Crash]
+Type: Ice
+Category: Physical
+Power: 85
+Accuracy: 90
+PP: 10
+Effect: May cause flinching.
+Chance: 30
+
+[Icicle Spear]
+Type: Ice
+Category: Physical
+Power: 25
+Accuracy: 100
+PP: 30
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Icy Wind]
+Type: Ice
+Category: Special
+Power: 55
+Accuracy: 95
+PP: 15
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Imprison]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Opponent is unable to use moves that the user also knows.
+Chance: -
+
+[Incinerate]
+Type: Fire
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 15
+Effect: Destroys the target's held berry.
+Chance: -
+
+[Inferno]
+Type: Fire
+Category: Special
+Power: 100
+Accuracy: 50
+PP: 5
+Effect: Burns opponent.
+Chance: 100
+
+[Infestation]
+Type: Bug
+Category: Special
+Power: 20
+Accuracy: 100
+PP: 20
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Ingrain]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: User restores HP each turn. User cannot escape/switch.
+Chance: -
+
+[Ion Deluge]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: -
+PP: 25
+Effect: Changes Normal-type moves to Electric-type.
+Chance: -
+
+[Iron Defense]
+Type: Steel
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Sharply raises user's Defense.
+Chance: -
+
+[Iron Head]
+Type: Steel
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May cause flinching.
+Chance: 30
+
+[Iron Tail]
+Type: Steel
+Category: Physical
+Power: 100
+Accuracy: 75
+PP: 15
+Effect: May lower opponent's Defense.
+Chance: 10
+
+[Judgment]
+Type: Normal
+Category: Special
+Power: 100
+Accuracy: 100
+PP: 10
+Effect: Type depends on the Arceus Plate being held.
+Chance: -
+
+[Jump Kick]
+Type: Fighting
+Category: Physical
+Power: 100
+Accuracy: 95
+PP: 10
+Effect: If it misses, the user loses half their HP.
+Chance: -
+
+[Karate Chop]
+Type: Fighting
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 25
+Effect: High critical hit ratio.
+Chance: -
+
+[Kinesis]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: 80
+PP: 15
+Effect: Lowers opponent's Accuracy.
+Chance: -
+
+[King's Shield]
+Type: Steel
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Protects against attacks, and lowers opponent's Attack on contact.
+Chance: -
+
+[Knock Off]
+Type: Dark
+Category: Physical
+Power: 65
+Accuracy: 100
+PP: 25
+Effect: Removes opponent's held item for the rest of the battle.
+Chance: -
+
+[Land's Wrath]
+Type: Ground
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 10
+Effect:  
+Chance: -
+
+[Last Resort]
+Type: Normal
+Category: Physical
+Power: 140
+Accuracy: 100
+PP: 5
+Effect: Can only be used after all other moves are used.
+Chance: -
+
+[Lava Plume]
+Type: Fire
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May burn opponent.
+Chance: 30
+
+[Leaf Blade]
+Type: Grass
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: High critical hit ratio.
+Chance: -
+
+[Leaf Storm]
+Type: Grass
+Category: Special
+Power: 130
+Accuracy: 90
+PP: 5
+Effect: Sharply lowers user's Special Attack.
+Chance: -
+
+[Leaf Tornado]
+Type: Grass
+Category: Special
+Power: 65
+Accuracy: 90
+PP: 10
+Effect: May lower opponent's Accuracy.
+Chance: 30
+
+[Leech Life]
+Type: Bug
+Category: Physical
+Power: 20
+Accuracy: 100
+PP: 15
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Leech Seed]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 90
+PP: 10
+Effect: User steals HP from opponent each turn.
+Chance: -
+
+[Leer]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Lowers opponent's Defense.
+Chance: -
+
+[Lick]
+Type: Ghost
+Category: Physical
+Power: 30
+Accuracy: 100
+PP: 30
+Effect: May paralyze opponent.
+Chance: 30
+
+[Light of Ruin]
+Type: Fairy
+Category: Special
+Power: 140
+Accuracy: 90
+PP: 5
+Effect: User receives recoil damage.
+Chance: -
+
+[Light Screen]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Halves damage from Special attacks for 5 turns.
+Chance: -
+
+[Lock-On]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: The next move the user uses is guaranteed to hit.
+Chance: -
+
+[Lovely Kiss]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 75
+PP: 10
+Effect: Puts opponent to sleep.
+Chance: -
+
+[Low Kick]
+Type: Fighting
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 20
+Effect: The heavier the opponent, the stronger the attack.
+Chance: -
+
+[Low Sweep]
+Type: Fighting
+Category: Physical
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Lucky Chant]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Opponent cannot land critical hits for 5 turns.
+Chance: -
+
+[Lunar Dance]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: The user faints but the next Pokémon released is fully healed.
+Chance: -
+
+[Luster Purge]
+Type: Psychic
+Category: Special
+Power: 70
+Accuracy: 100
+PP: 5
+Effect: May lower opponent's Special Defense.
+Chance: 50
+
+[Mach Punch]
+Type: Fighting
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: User attacks first.
+Chance: -
+
+[Magic Coat]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Reflects moves that cause status conditions back to the attacker.
+Chance: -
+
+[Magic Room]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Suppresses the effects of held items for five turns.
+Chance: -
+
+[Magical Leaf]
+Type: Grass
+Category: Special
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Magma Storm]
+Type: Fire
+Category: Special
+Power: 120
+Accuracy: 75
+PP: 5
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Magnet Bomb]
+Type: Steel
+Category: Physical
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Magnet Rise]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User becomes immune to Ground-type moves for 5 turns.
+Chance: -
+
+[Magnetic Flux]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises Defense and Sp. Defense of Plus/Minus Pokémon.
+Chance: -
+
+[Magnitude]
+Type: Ground
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Hits with random power.
+Chance: -
+
+[Mat Block]
+Type: Fighting
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Protects teammates from damaging moves.
+Chance: -
+
+[Me First]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: User copies the opponent's attack with 1.5× power.
+Chance: -
+
+[Mean Look]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Opponent cannot flee or switch.
+Chance: -
+
+[Meditate]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Raises user's Attack.
+Chance: -
+
+[Mega Drain]
+Type: Grass
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 15
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Mega Kick]
+Type: Normal
+Category: Physical
+Power: 120
+Accuracy: 75
+PP: 5
+Effect:  
+Chance: -
+
+[Mega Punch]
+Type: Normal
+Category: Physical
+Power: 80
+Accuracy: 85
+PP: 20
+Effect:  
+Chance: -
+
+[Megahorn]
+Type: Bug
+Category: Physical
+Power: 120
+Accuracy: 85
+PP: 10
+Effect:  
+Chance: -
+
+[Memento]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: User faints, sharply lowers opponent's Attack and Special Attack.
+Chance: -
+
+[Metal Burst]
+Type: Steel
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Deals damage equal to 1.5x opponent's attack.
+Chance: -
+
+[Metal Claw]
+Type: Steel
+Category: Physical
+Power: 50
+Accuracy: 95
+PP: 35
+Effect: May raise user's Attack.
+Chance: 10
+
+[Metal Sound]
+Type: Steel
+Category: Status
+Power: -
+Accuracy: 85
+PP: 40
+Effect: Sharply lowers opponent's Special Defense.
+Chance: -
+
+[Meteor Mash]
+Type: Steel
+Category: Physical
+Power: 90
+Accuracy: 90
+PP: 10
+Effect: May raise user's Attack.
+Chance: 20
+
+[Metronome]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User performs any move in the game at random.
+Chance: -
+
+[Milk Drink]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User recovers half its max HP.
+Chance: -
+
+[Mimic]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Copies the opponent's last move.
+Chance: -
+
+[Mind Reader]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: User's next attack is guaranteed to hit.
+Chance: -
+
+[Minimize]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Sharply raises user's Evasiveness.
+Chance: -
+
+[Miracle Eye]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+Chance: -
+
+[Mirror Coat]
+Type: Psychic
+Category: Special
+Power: -
+Accuracy: 100
+PP: 20
+Effect: When hit by a Special Attack, user strikes back with 2x power.
+Chance: -
+
+[Mirror Move]
+Type: Flying
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: User performs the opponent's last move.
+Chance: -
+
+[Mirror Shot]
+Type: Steel
+Category: Special
+Power: 65
+Accuracy: 85
+PP: 10
+Effect: May lower opponent's Accuracy.
+Chance: 30
+
+[Mist]
+Type: Ice
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: User's stats cannot be changed for a period of time.
+Chance: -
+
+[Mist Ball]
+Type: Psychic
+Category: Special
+Power: 70
+Accuracy: 100
+PP: 5
+Effect: May lower opponent's Special Attack.
+Chance: 50
+
+[Misty Terrain]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Protects the field from status conditions for 5 turns.
+Chance: -
+
+[Moonblast]
+Type: Fairy
+Category: Special
+Power: 95
+Accuracy: 100
+PP: 15
+Effect: May lower opponent's Special Attack.
+Chance: 30
+
+[Moonlight]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: User recovers HP. Amount varies with the weather.
+Chance: -
+
+[Morning Sun]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: User recovers HP. Amount varies with the weather.
+Chance: -
+
+[Mud Bomb]
+Type: Ground
+Category: Special
+Power: 65
+Accuracy: 85
+PP: 10
+Effect: May lower opponent's Accuracy.
+Chance: 30
+
+[Mud Shot]
+Type: Ground
+Category: Special
+Power: 55
+Accuracy: 95
+PP: 15
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Mud Sport]
+Type: Ground
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Weakens the power of Electric-type moves.
+Chance: -
+
+[Mud-Slap]
+Type: Ground
+Category: Special
+Power: 20
+Accuracy: 100
+PP: 10
+Effect: Lowers opponent's Accuracy.
+Chance: 100
+
+[Muddy Water]
+Type: Water
+Category: Special
+Power: 90
+Accuracy: 85
+PP: 10
+Effect: May lower opponent's Accuracy.
+Chance: 30
+
+[Mystical Fire]
+Type: Fire
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 10
+Effect: Lowers opponent's Special Attack.
+Chance: 100
+
+[Nasty Plot]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Sharply raises user's Special Attack.
+Chance: -
+
+[Natural Gift]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Power and type depend on the user's held berry.
+Chance: -
+
+[Nature Power]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Uses a certain move based on the current terrain.
+Chance: -
+
+[Needle Arm]
+Type: Grass
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 15
+Effect: May cause flinching.
+Chance: 30
+
+[Night Daze]
+Type: Dark
+Category: Special
+Power: 85
+Accuracy: 95
+PP: 10
+Effect: May lower opponent's Accuracy.
+Chance: 40
+
+[Night Shade]
+Type: Ghost
+Category: Special
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Inflicts damage equal to user's level.
+Chance: -
+
+[Night Slash]
+Type: Dark
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 15
+Effect: High critical hit ratio.
+Chance: -
+
+[Nightmare]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: The sleeping opponent loses 25% of its max HP each turn.
+Chance: -
+
+[Noble Roar]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Lowers opponent's Attack and Special Attack.
+Chance: -
+
+[Nuzzle]
+Type: Electric
+Category: Physical
+Power: 20
+Accuracy: 100
+PP: 20
+Effect: Paralyzes opponent.
+Chance: 100
+
+[Oblivion Wing]
+Type: Flying
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: User recovers most of the HP inflicted on opponent.
+Chance: -
+
+[Octazooka]
+Type: Water
+Category: Special
+Power: 65
+Accuracy: 85
+PP: 10
+Effect: May lower opponent's Accuracy.
+Chance: 50
+
+[Odor Sleuth]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.
+Chance: -
+
+[Ominous Wind]
+Type: Ghost
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 5
+Effect: May raise all user's stats at once.
+Chance: 10
+
+[Origin Pulse]
+Type: Water
+Category: Special
+Power: 110
+Accuracy: 85
+PP: 10
+Effect: Hits all adjacent opponents.
+Chance: -
+
+[Outrage]
+Type: Dragon
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 10
+Effect: User attacks for 2-3 turns but then becomes confused.
+Chance: -
+
+[Overheat]
+Type: Fire
+Category: Special
+Power: 130
+Accuracy: 90
+PP: 5
+Effect: Sharply lowers user's Special Attack.
+Chance: -
+
+[Pain Split]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: The user's and opponent's HP becomes the average of both.
+Chance: -
+
+[Parabolic Charge]
+Type: Electric
+Category: Special
+Power: 50
+Accuracy: 100
+PP: 20
+Effect: User recovers half the HP inflicted on opponent.
+Chance: -
+
+[Parting Shot]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Attack and Special Attack then switches out. 
+Chance: -
+
+[Pay Day]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 20
+Effect: A small amount of money is gained after the battle resolves.
+Chance: -
+
+[Payback]
+Type: Dark
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 10
+Effect: Power doubles if the user was attacked first.
+Chance: -
+
+[Peck]
+Type: Flying
+Category: Physical
+Power: 35
+Accuracy: 100
+PP: 35
+Effect:  
+Chance: -
+
+[Perish Song]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Any Pokémon in play when this attack is used faints in 3 turns.
+Chance: -
+
+[Petal Blizzard]
+Type: Grass
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: Hits all adjacent Pokémon.
+Chance: -
+
+[Petal Dance]
+Type: Grass
+Category: Special
+Power: 120
+Accuracy: 100
+PP: 10
+Effect: User attacks for 2-3 turns but then becomes confused.
+Chance: -
+
+[Phantom Force]
+Type: Ghost
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Chance: -
+
+[Pin Missile]
+Type: Bug
+Category: Physical
+Power: 25
+Accuracy: 95
+PP: 20
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Play Nice]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Lowers opponent's Attack. Always hits.
+Chance: -
+
+[Play Rough]
+Type: Fairy
+Category: Physical
+Power: 90
+Accuracy: 90
+PP: 10
+Effect: May lower opponent's Attack.
+Chance: 10
+
+[Pluck]
+Type: Flying
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 20
+Effect: If the opponent is holding a berry, its effect is stolen by user.
+Chance: -
+
+[Poison Fang]
+Type: Poison
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 15
+Effect: May badly poison opponent.
+Chance: 50
+
+[Poison Gas]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: 90
+PP: 40
+Effect: Poisons opponent.
+Chance: -
+
+[Poison Jab]
+Type: Poison
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 20
+Effect: May poison the opponent.
+Chance: 30
+
+[Poison Powder]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: 75
+PP: 35
+Effect: Poisons opponent.
+Chance: -
+
+[Poison Sting]
+Type: Poison
+Category: Physical
+Power: 15
+Accuracy: 100
+PP: 35
+Effect: May poison the opponent.
+Chance: 30
+
+[Poison Tail]
+Type: Poison
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 25
+Effect: High critical hit ratio. May poison opponent.
+Chance: 10
+
+[Pound]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 35
+Effect:  
+Chance: -
+
+[Powder]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Damages Pokémon using Fire type moves.
+Chance: -
+
+[Powder Snow]
+Type: Ice
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 25
+Effect: May freeze opponent.
+Chance: 10
+
+[Power Gem]
+Type: Rock
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 20
+Effect:  
+Chance: -
+
+[Power Split]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Averages Attack and Special Attack with the target.
+Chance: -
+
+[Power Swap]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User and opponent swap Attack and Special Attack.
+Chance: -
+
+[Power Trick]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User's own Attack and Defense switch.
+Chance: -
+
+[Power Whip]
+Type: Grass
+Category: Physical
+Power: 120
+Accuracy: 85
+PP: 10
+Effect:  
+Chance: -
+
+[Power-Up Punch]
+Type: Fighting
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 10
+Effect: Raises Attack.
+Chance: 100
+
+[Precipice Blades]
+Type: Ground
+Category: Physical
+Power: 120
+Accuracy: 85
+PP: 10
+Effect: Hits all adjacent opponents.
+Chance: -
+
+[Present]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 90
+PP: 15
+Effect: Either deals damage or heals.
+Chance: -
+
+[Protect]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User is not affected by opponent's move.
+Chance: -
+
+[Psybeam]
+Type: Psychic
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May confuse opponent.
+Chance: 10
+
+[Psych Up]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Copies the opponent's stat changes.
+Chance: -
+
+[Psychic]
+Type: Psychic
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: May lower opponent's Special Defense.
+Chance: 10
+
+[Psycho Boost]
+Type: Psychic
+Category: Special
+Power: 140
+Accuracy: 90
+PP: 5
+Effect: Sharply lowers user's Special Attack.
+Chance: -
+
+[Psycho Cut]
+Type: Psychic
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: High critical hit ratio.
+Chance: -
+
+[Psycho Shift]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: 90
+PP: 10
+Effect: Gives the opponent the user's status condition, if it hits.
+Chance: -
+
+[Psyshock]
+Type: Psychic
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Inflicts damage based on the target's Defense, not Special Defense.
+Chance: -
+
+[Psystrike]
+Type: Psychic
+Category: Special
+Power: 100
+Accuracy: 100
+PP: 10
+Effect: Inflicts damage based on the target's Defense, not Special Defense.
+Chance: -
+
+[Psywave]
+Type: Psychic
+Category: Special
+Power: -
+Accuracy: 80
+PP: 15
+Effect: Inflicts damage 50-150% of user's level.
+Chance: -
+
+[Punishment]
+Type: Dark
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 5
+Effect: Power increases when opponent's stats have been raised.
+Chance: -
+
+[Pursuit]
+Type: Dark
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 20
+Effect: Double power if the opponent is switching out.
+Chance: -
+
+[Quash]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Makes the target act last this turn.
+Chance: -
+
+[Quick Attack]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: User attacks first.
+Chance: -
+
+[Quick Guard]
+Type: Fighting
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Fast moves won't damage the user or its teammates.
+Chance: -
+
+[Quiver Dance]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Raises user's Special Attack, Special Defense and Speed.
+Chance: -
+
+[Rage]
+Type: Normal
+Category: Physical
+Power: 20
+Accuracy: 100
+PP: 20
+Effect: Raises user's Attack when hit.
+Chance: -
+
+[Rage Powder]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Forces attacks to hit user, not team-mates.
+Chance: -
+
+[Rain Dance]
+Type: Water
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Makes it rain for 5 turns.
+Chance: -
+
+[Rapid Spin]
+Type: Normal
+Category: Physical
+Power: 20
+Accuracy: 100
+PP: 40
+Effect: Removes effects of trap moves.
+Chance: -
+
+[Razor Leaf]
+Type: Grass
+Category: Physical
+Power: 55
+Accuracy: 95
+PP: 25
+Effect: High critical hit ratio.
+Chance: -
+
+[Razor Shell]
+Type: Water
+Category: Physical
+Power: 75
+Accuracy: 95
+PP: 10
+Effect: May lower opponent's Defense.
+Chance: 50
+
+[Razor Wind]
+Type: Normal
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Charges on first turn, attacks on second. High critical hit ratio.
+Chance: -
+
+[Recover]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User recovers half its max HP.
+Chance: -
+
+[Recycle]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User's used hold item is restored.
+Chance: -
+
+[Reflect]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Halves damage from Physical attacks for 5 turns.
+Chance: -
+
+[Reflect Type]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: User becomes the target's type.
+Chance: -
+
+[Refresh]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Cures paralysis, poison, and burns.
+Chance: -
+
+[Relic Song]
+Type: Normal
+Category: Special
+Power: 75
+Accuracy: 100
+PP: 10
+Effect: May put the target to sleep.
+Chance: 10
+
+[Rest]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User sleeps for 2 turns, but user is fully healed.
+Chance: -
+
+[Retaliate]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 5
+Effect: Inflicts double damage if a teammate fainted on the last turn.
+Chance: -
+
+[Return]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Power increases with user's Happiness.
+Chance: -
+
+[Revenge]
+Type: Fighting
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 10
+Effect: Power increases if user was hit first.
+Chance: -
+
+[Reversal]
+Type: Fighting
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 15
+Effect: The lower the user's HP, the higher the power.
+Chance: -
+
+[Roar]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: In battles, the opponent switches. In the wild, the Pokémon runs.
+Chance: -
+
+[Roar of Time]
+Type: Dragon
+Category: Special
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Rock Blast]
+Type: Rock
+Category: Physical
+Power: 25
+Accuracy: 90
+PP: 10
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Rock Climb]
+Type: Normal
+Category: Physical
+Power: 90
+Accuracy: 85
+PP: 20
+Effect: May confuse opponent.
+Chance: 20
+
+[Rock Polish]
+Type: Rock
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Sharply raises user's Speed.
+Chance: -
+
+[Rock Slide]
+Type: Rock
+Category: Physical
+Power: 75
+Accuracy: 90
+PP: 10
+Effect: May cause flinching.
+Chance: 30
+
+[Rock Smash]
+Type: Fighting
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 15
+Effect: May lower opponent's Defense.
+Chance: 50
+
+[Rock Throw]
+Type: Rock
+Category: Physical
+Power: 50
+Accuracy: 90
+PP: 15
+Effect:  
+Chance: -
+
+[Rock Tomb]
+Type: Rock
+Category: Physical
+Power: 60
+Accuracy: 95
+PP: 15
+Effect: Lowers opponent's Speed.
+Chance: 100
+
+[Rock Wrecker]
+Type: Rock
+Category: Physical
+Power: 150
+Accuracy: 90
+PP: 5
+Effect: User must recharge next turn.
+Chance: -
+
+[Role Play]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: User copies the opponent's Ability.
+Chance: -
+
+[Rolling Kick]
+Type: Fighting
+Category: Physical
+Power: 60
+Accuracy: 85
+PP: 15
+Effect: May cause flinching.
+Chance: 30
+
+[Rollout]
+Type: Rock
+Category: Physical
+Power: 30
+Accuracy: 90
+PP: 20
+Effect: Doubles in power each turn for 5 turns.
+Chance: -
+
+[Roost]
+Type: Flying
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User recovers half of its max HP and loses the Flying type temporarily.
+Chance: -
+
+[Rototiller]
+Type: Ground
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Raises Attack and Special Attack of Grass-types.
+Chance: -
+
+[Round]
+Type: Normal
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 15
+Effect: Power increases if teammates use it in the same turn.
+Chance: -
+
+[Sacred Fire]
+Type: Fire
+Category: Physical
+Power: 100
+Accuracy: 95
+PP: 5
+Effect: May burn opponent.
+Chance: 50
+
+[Sacred Sword]
+Type: Fighting
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 20
+Effect: Ignores opponent's stat changes.
+Chance: -
+
+[Safeguard]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 25
+Effect: The user's party is protected from status conditions.
+Chance: -
+
+[Sand Attack]
+Type: Ground
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Lowers opponent's Accuracy.
+Chance: -
+
+[Sand Tomb]
+Type: Ground
+Category: Physical
+Power: 35
+Accuracy: 85
+PP: 15
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Sandstorm]
+Type: Rock
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Creates a sandstorm for 5 turns.
+Chance: -
+
+[Scald]
+Type: Water
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May burn opponent.
+Chance: 30
+
+[Scary Face]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Sharply lowers opponent's Speed.
+Chance: -
+
+[Scratch]
+Type: Normal
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 35
+Effect:  
+Chance: -
+
+[Screech]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 85
+PP: 40
+Effect: Sharply lowers opponent's Defense.
+Chance: -
+
+[Searing Shot]
+Type: Fire
+Category: Special
+Power: 100
+Accuracy: 100
+PP: 5
+Effect: May burn opponent.
+Chance: 30
+
+[Secret Power]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: Effects of the attack vary with the location.
+Chance: 30
+
+[Secret Sword]
+Type: Fighting
+Category: Special
+Power: 85
+Accuracy: 100
+PP: 10
+Effect: Inflicts damage based on the target's Defense, not Special Defense.
+Chance: -
+
+[Seed Bomb]
+Type: Grass
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect:  
+Chance: -
+
+[Seed Flare]
+Type: Grass
+Category: Special
+Power: 120
+Accuracy: 85
+PP: 5
+Effect: May lower opponent's Special Defense.
+Chance: 40
+
+[Seismic Toss]
+Type: Fighting
+Category: Physical
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Inflicts damage equal to user's level.
+Chance: -
+
+[Self-Destruct]
+Type: Normal
+Category: Physical
+Power: 200
+Accuracy: 100
+PP: 5
+Effect: User faints.
+Chance: -
+
+[Shadow Ball]
+Type: Ghost
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May lower opponent's Special Defense.
+Chance: 20
+
+[Shadow Claw]
+Type: Ghost
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 15
+Effect: High critical hit ratio.
+Chance: -
+
+[Shadow Force]
+Type: Ghost
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 5
+Effect: Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Chance: -
+
+[Shadow Punch]
+Type: Ghost
+Category: Physical
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Shadow Sneak]
+Type: Ghost
+Category: Physical
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: User attacks first.
+Chance: -
+
+[Sharpen]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Raises user's Attack.
+Chance: -
+
+[Sheer Cold]
+Type: Ice
+Category: Special
+Power: -
+Accuracy: -
+PP: 5
+Effect: One-Hit-KO, if it hits.
+Chance: -
+
+[Shell Smash]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+Chance: -
+
+[Shift Gear]
+Type: Steel
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Raises user's Attack and sharply raises Speed.
+Chance: -
+
+[Shock Wave]
+Type: Electric
+Category: Special
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Signal Beam]
+Type: Bug
+Category: Special
+Power: 75
+Accuracy: 100
+PP: 15
+Effect: May confuse opponent.
+Chance: 10
+
+[Silver Wind]
+Type: Bug
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 5
+Effect: May raise all stats of user at once.
+Chance: 10
+
+[Simple Beam]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Changes target's ability to Simple.
+Chance: -
+
+[Sing]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 55
+PP: 15
+Effect: Puts opponent to sleep.
+Chance: 100
+
+[Sketch]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 1
+Effect: Permanently copies the opponent's last move.
+Chance: -
+
+[Skill Swap]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: The user swaps Abilities with the opponent.
+Chance: -
+
+[Skull Bash]
+Type: Normal
+Category: Physical
+Power: 130
+Accuracy: 100
+PP: 10
+Effect: Raises Defense on first turn, attacks on second.
+Chance: 100
+
+[Sky Attack]
+Type: Flying
+Category: Physical
+Power: 140
+Accuracy: 90
+PP: 5
+Effect: Charges on first turn, attacks on second. May cause flinching.
+Chance: 30
+
+[Sky Drop]
+Type: Flying
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 10
+Effect: Takes opponent into the air on first turn, drops them on second turn.
+Chance: -
+
+[Sky Uppercut]
+Type: Fighting
+Category: Physical
+Power: 85
+Accuracy: 90
+PP: 15
+Effect: Hits the opponent, even during Fly.
+Chance: -
+
+[Slack Off]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User recovers half its max HP.
+Chance: -
+
+[Slam]
+Type: Normal
+Category: Physical
+Power: 80
+Accuracy: 75
+PP: 20
+Effect:  
+Chance: -
+
+[Slash]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: High critical hit ratio.
+Chance: -
+
+[Sleep Powder]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 75
+PP: 15
+Effect: Puts opponent to sleep.
+Chance: -
+
+[Sleep Talk]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User performs one of its own moves while sleeping.
+Chance: -
+
+[Sludge]
+Type: Poison
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May poison opponent.
+Chance: 30
+
+[Sludge Bomb]
+Type: Poison
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: May poison opponent.
+Chance: 30
+
+[Sludge Wave]
+Type: Poison
+Category: Special
+Power: 95
+Accuracy: 100
+PP: 10
+Effect: May poison opponent.
+Chance: 10
+
+[Smack Down]
+Type: Rock
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 15
+Effect: Makes Flying-type Pokémon vulnerable to Ground moves.
+Chance: -
+
+[Smelling Salts]
+Type: Normal
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 10
+Effect: Power doubles if opponent is paralyzed, but cures it.
+Chance: -
+
+[Smog]
+Type: Poison
+Category: Special
+Power: 30
+Accuracy: 70
+PP: 20
+Effect: May poison opponent.
+Chance: 40
+
+[Smokescreen]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Accuracy.
+Chance: -
+
+[Snarl]
+Type: Dark
+Category: Special
+Power: 55
+Accuracy: 95
+PP: 15
+Effect: Lowers opponent's Special Attack.
+Chance: 100
+
+[Snatch]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Steals the effects of the opponent's next move.
+Chance: -
+
+[Snore]
+Type: Normal
+Category: Special
+Power: 50
+Accuracy: 100
+PP: 15
+Effect: Can only be used if asleep. May cause flinching.
+Chance: 30
+
+[Soak]
+Type: Water
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Changes the target's type to water.
+Chance: -
+
+[Soft-Boiled]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User recovers half its max HP.
+Chance: -
+
+[Solar Beam]
+Type: Grass
+Category: Special
+Power: 120
+Accuracy: 100
+PP: 10
+Effect: Charges on first turn, attacks on second.
+Chance: -
+
+[Sonic Boom]
+Type: Normal
+Category: Special
+Power: -
+Accuracy: 90
+PP: 20
+Effect: Always inflicts 20 HP.
+Chance: -
+
+[Spacial Rend]
+Type: Dragon
+Category: Special
+Power: 100
+Accuracy: 95
+PP: 5
+Effect: High critical hit ratio.
+Chance: -
+
+[Spark]
+Type: Electric
+Category: Physical
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May paralyze opponent.
+Chance: 30
+
+[Spider Web]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Opponent cannot escape/switch.
+Chance: -
+
+[Spike Cannon]
+Type: Normal
+Category: Physical
+Power: 20
+Accuracy: 100
+PP: 15
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Spikes]
+Type: Ground
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Hurts opponents when they switch into battle.
+Chance: -
+
+[Spiky Shield]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Protects user and inflicts damage on contact moves.
+Chance: -
+
+[Spit Up]
+Type: Normal
+Category: Special
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Power depends on how many times the user performed Stockpile.
+Chance: -
+
+[Spite]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: The opponent's last move loses 2-5 PP.
+Chance: -
+
+[Splash]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Doesn't do ANYTHING.
+Chance: -
+
+[Spore]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Puts opponent to sleep.
+Chance: 100
+
+[Stealth Rock]
+Type: Rock
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Damages opponent switching into battle.
+Chance: -
+
+[Steam Eruption]
+Type: Water
+Category: Special
+Power: 110
+Accuracy: 95
+PP: 5
+Effect: May burn opponent.
+Chance: 30
+
+[Steamroller]
+Type: Bug
+Category: Physical
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May cause flinching.
+Chance: 30
+
+[Steel Wing]
+Type: Steel
+Category: Physical
+Power: 70
+Accuracy: 90
+PP: 25
+Effect: May raise user's Defense.
+Chance: 10
+
+[Sticky Web]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Lowers opponent's Speed when switching into battle.
+Chance: -
+
+[Stockpile]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Stores energy for use with Spit Up and Swallow.
+Chance: -
+
+[Stomp]
+Type: Normal
+Category: Physical
+Power: 65
+Accuracy: 100
+PP: 20
+Effect: May cause flinching.
+Chance: 30
+
+[Stone Edge]
+Type: Rock
+Category: Physical
+Power: 100
+Accuracy: 80
+PP: 5
+Effect: High critical hit ratio.
+Chance: -
+
+[Stored Power]
+Type: Psychic
+Category: Special
+Power: 20
+Accuracy: 100
+PP: 10
+Effect: Power increases when user's stats have been raised.
+Chance: -
+
+[Storm Throw]
+Type: Fighting
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 10
+Effect: Always results in a critical hit.
+Chance: -
+
+[Strength]
+Type: Normal
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect:  
+Chance: -
+
+[String Shot]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: 95
+PP: 40
+Effect: Sharply lowers opponent's Speed.
+Chance: -
+
+[Struggle]
+Type: Normal
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: -
+Effect: Only usable when all PP are gone. Hurts the user.
+Chance: -
+
+[Struggle Bug]
+Type: Bug
+Category: Special
+Power: 50
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Special Attack.
+Chance: 100
+
+[Stun Spore]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 75
+PP: 30
+Effect: Paralyzes opponent.
+Chance: -
+
+[Submission]
+Type: Fighting
+Category: Physical
+Power: 80
+Accuracy: 80
+PP: 25
+Effect: User receives recoil damage.
+Chance: -
+
+[Substitute]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Uses HP to creates a decoy that takes hits.
+Chance: -
+
+[Sucker Punch]
+Type: Dark
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 5
+Effect: User attacks first, but only works if opponent is readying an attack.
+Chance: -
+
+[Sunny Day]
+Type: Fire
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Makes it sunny for 5 turns.
+Chance: -
+
+[Super Fang]
+Type: Normal
+Category: Physical
+Power: -
+Accuracy: 90
+PP: 10
+Effect: Always takes off half of the opponent's HP.
+Chance: -
+
+[Superpower]
+Type: Fighting
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 5
+Effect: Lowers user's Attack and Defense.
+Chance: -
+
+[Supersonic]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 55
+PP: 20
+Effect: Confuses opponent.
+Chance: -
+
+[Surf]
+Type: Water
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: Hits all adjacent Pokémon.
+Chance: -
+
+[Swagger]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 90
+PP: 15
+Effect: Opponent becomes confused, but its Attack is raised two stages.
+Chance: -
+
+[Swallow]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: The more times the user has performed Stockpile, the more HP is recovered.
+Chance: -
+
+[Sweet Kiss]
+Type: Fairy
+Category: Status
+Power: -
+Accuracy: 75
+PP: 10
+Effect: Confuses opponent.
+Chance: -
+
+[Sweet Scent]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Lowers opponent's Evasiveness.
+Chance: -
+
+[Swift]
+Type: Normal
+Category: Special
+Power: 60
+Accuracy: ∞
+PP: 20
+Effect: Ignores Accuracy and Evasiveness.
+Chance: -
+
+[Switcheroo]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Swaps held items with the opponent.
+Chance: -
+
+[Swords Dance]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Sharply raises user's Attack.
+Chance: -
+
+[Synchronoise]
+Type: Psychic
+Category: Special
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: Hits any Pokémon that shares a type with the user.
+Chance: -
+
+[Synthesis]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: User recovers HP. Amount varies with the weather.
+Chance: -
+
+[Tackle]
+Type: Normal
+Category: Physical
+Power: 50
+Accuracy: 100
+PP: 35
+Effect:  
+Chance: -
+
+[Tail Glow]
+Type: Bug
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Drastically raises user's Special Attack.
+Chance: -
+
+[Tail Slap]
+Type: Normal
+Category: Physical
+Power: 25
+Accuracy: 85
+PP: 10
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Tail Whip]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 30
+Effect: Lowers opponent's Defense.
+Chance: -
+
+[Tailwind]
+Type: Flying
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Doubles Speed for 4 turns.
+Chance: -
+
+[Take Down]
+Type: Normal
+Category: Physical
+Power: 90
+Accuracy: 85
+PP: 20
+Effect: User receives recoil damage.
+Chance: -
+
+[Taunt]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Opponent can only use moves that attack.
+Chance: -
+
+[Techno Blast]
+Type: Normal
+Category: Special
+Power: 85
+Accuracy: 100
+PP: 5
+Effect: Type depends on the Drive being held.
+Chance: -
+
+[Teeter Dance]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Confuses all Pokémon.
+Chance: -
+
+[Telekinesis]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Ignores opponent's Evasiveness for three turns, add Ground immunity.
+Chance: -
+
+[Teleport]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Allows user to flee wild battles; also warps player to last PokéCenter.
+Chance: -
+
+[Thief]
+Type: Dark
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 25
+Effect: Also steals opponent's held item.
+Chance: -
+
+[Thousand Arrows]
+Type: Ground
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: Makes Flying-type Pokémon vulnerable to Ground moves.
+Chance: -
+
+[Thousand Waves]
+Type: Ground
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: Opponent cannot flee or switch.
+Chance: -
+
+[Thrash]
+Type: Normal
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 10
+Effect: User attacks for 2-3 turns but then becomes confused.
+Chance: -
+
+[Thunder]
+Type: Electric
+Category: Special
+Power: 110
+Accuracy: 70
+PP: 10
+Effect: May paralyze opponent.
+Chance: 30
+
+[Thunder Fang]
+Type: Electric
+Category: Physical
+Power: 65
+Accuracy: 95
+PP: 15
+Effect: May cause flinching and/or paralyze opponent.
+Chance: 10
+
+[Thunder Punch]
+Type: Electric
+Category: Physical
+Power: 75
+Accuracy: 100
+PP: 15
+Effect: May paralyze opponent.
+Chance: 10
+
+[Thunder Shock]
+Type: Electric
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: May paralyze opponent.
+Chance: 10
+
+[Thunder Wave]
+Type: Electric
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Paralyzes opponent.
+Chance: 100
+
+[Thunderbolt]
+Type: Electric
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: May paralyze opponent.
+Chance: 10
+
+[Tickle]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Lowers opponent's Attack and Defense.
+Chance: -
+
+[Topsy-Turvy]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Reverses stat changes of opponent.
+Chance: -
+
+[Torment]
+Type: Dark
+Category: Status
+Power: -
+Accuracy: 100
+PP: 15
+Effect: Opponent cannot use the same move in a row.
+Chance: -
+
+[Toxic]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: 90
+PP: 10
+Effect: Badly poisons opponent.
+Chance: -
+
+[Toxic Spikes]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: Poisons opponents when they switch into battle.
+Chance: -
+
+[Transform]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: User takes on the form and attacks of the opponent.
+Chance: -
+
+[Tri Attack]
+Type: Normal
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: May paralyze, burn or freeze opponent.
+Chance: 20
+
+[Trick]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Swaps held items with the opponent.
+Chance: -
+
+[Trick Room]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 5
+Effect: Slower Pokémon move first in the turn for 5 turns.
+Chance: -
+
+[Trick-or-Treat]
+Type: Ghost
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Adds Ghost type to opponent.
+Chance: -
+
+[Triple Kick]
+Type: Fighting
+Category: Physical
+Power: 10
+Accuracy: 90
+PP: 10
+Effect: Hits thrice in one turn at increasing power.
+Chance: -
+
+[Trump Card]
+Type: Normal
+Category: Special
+Power: -
+Accuracy: ∞
+PP: 5
+Effect: The lower the PP, the higher the power.
+Chance: -
+
+[Twineedle]
+Type: Bug
+Category: Physical
+Power: 25
+Accuracy: 100
+PP: 20
+Effect: Hits twice in one turn. May poison opponent.
+Chance: 20
+
+[Twister]
+Type: Dragon
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 20
+Effect: May cause flinching. Hits Pokémon using Fly/Bounce with double power.
+Chance: 20
+
+[U-turn]
+Type: Bug
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: User switches out immediately after attacking.
+Chance: -
+
+[Uproar]
+Type: Normal
+Category: Special
+Power: 90
+Accuracy: 100
+PP: 10
+Effect: User attacks for 3 turns and prevents sleep.
+Chance: -
+
+[V-create]
+Type: Fire
+Category: Physical
+Power: 180
+Accuracy: 95
+PP: 5
+Effect: Lowers user's Defense, Special Defense and Speed.
+Chance: 100
+
+[Vacuum Wave]
+Type: Fighting
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 30
+Effect: User attacks first.
+Chance: -
+
+[Venom Drench]
+Type: Poison
+Category: Status
+Power: -
+Accuracy: 100
+PP: 20
+Effect: Lowers poisoned opponent's Special Attack and Speed.
+Chance: -
+
+[Venoshock]
+Type: Poison
+Category: Special
+Power: 65
+Accuracy: 100
+PP: 10
+Effect: Inflicts double damage if the target is poisoned.
+Chance: -
+
+[Vice Grip]
+Type: Normal
+Category: Physical
+Power: 55
+Accuracy: 100
+PP: 30
+Effect:  
+Chance: -
+
+[Vine Whip]
+Type: Grass
+Category: Physical
+Power: 45
+Accuracy: 100
+PP: 25
+Effect:  
+Chance: -
+
+[Vital Throw]
+Type: Fighting
+Category: Physical
+Power: 70
+Accuracy: ∞
+PP: 10
+Effect: User attacks last, but ignores Accuracy and Evasiveness.
+Chance: -
+
+[Volt Switch]
+Type: Electric
+Category: Special
+Power: 70
+Accuracy: 100
+PP: 20
+Effect: User must switch out after attacking.
+Chance: -
+
+[Volt Tackle]
+Type: Electric
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage. May paralyze opponent.
+Chance: 10
+
+[Wake-Up Slap]
+Type: Fighting
+Category: Physical
+Power: 70
+Accuracy: 100
+PP: 10
+Effect: Power doubles if opponent is asleep, but wakes it up.
+Chance: -
+
+[Water Gun]
+Type: Water
+Category: Special
+Power: 40
+Accuracy: 100
+PP: 25
+Effect:  
+Chance: -
+
+[Water Pledge]
+Type: Water
+Category: Special
+Power: 80
+Accuracy: 100
+PP: 10
+Effect: Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+Chance: -
+
+[Water Pulse]
+Type: Water
+Category: Special
+Power: 60
+Accuracy: 100
+PP: 20
+Effect: May confuse opponent.
+Chance: 20
+
+[Water Shuriken]
+Type: Water
+Category: Physical
+Power: 15
+Accuracy: 100
+PP: 10
+Effect: Hits 2-5 times in one turn.
+Chance: -
+
+[Water Sport]
+Type: Water
+Category: Status
+Power: -
+Accuracy: -
+PP: 15
+Effect: Weakens the power of Fire-type moves.
+Chance: -
+
+[Water Spout]
+Type: Water
+Category: Special
+Power: 150
+Accuracy: 100
+PP: 5
+Effect: The higher the user's HP, the higher the damage caused.
+Chance: -
+
+[Waterfall]
+Type: Water
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect: May cause flinching.
+Chance: 20
+
+[Weather Ball]
+Type: Normal
+Category: Special
+Power: 50
+Accuracy: 100
+PP: 10
+Effect: Move's power and type changes with the weather.
+Chance: -
+
+[Whirlpool]
+Type: Water
+Category: Special
+Power: 35
+Accuracy: 85
+PP: 15
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Whirlwind]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 20
+Effect: In battles, the opponent switches. In the wild, the Pokémon runs.
+Chance: -
+
+[Wide Guard]
+Type: Rock
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Protects the user's team from multi-target attacks.
+Chance: -
+
+[Wild Charge]
+Type: Electric
+Category: Physical
+Power: 90
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage.
+Chance: -
+
+[Will-O-Wisp]
+Type: Fire
+Category: Status
+Power: -
+Accuracy: 85
+PP: 15
+Effect: Burns opponent.
+Chance: 100
+
+[Wing Attack]
+Type: Flying
+Category: Physical
+Power: 60
+Accuracy: 100
+PP: 35
+Effect:  
+Chance: -
+
+[Wish]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: The user recovers HP in the following turn.
+Chance: -
+
+[Withdraw]
+Type: Water
+Category: Status
+Power: -
+Accuracy: -
+PP: 40
+Effect: Raises user's Defense.
+Chance: -
+
+[Wonder Room]
+Type: Psychic
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Swaps every Pokémon's Defense and Special Defense for 5 turns.
+Chance: -
+
+[Wood Hammer]
+Type: Grass
+Category: Physical
+Power: 120
+Accuracy: 100
+PP: 15
+Effect: User receives recoil damage.
+Chance: -
+
+[Work Up]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 30
+Effect: Raises user's Attack and Special Attack.
+Chance: -
+
+[Worry Seed]
+Type: Grass
+Category: Status
+Power: -
+Accuracy: 100
+PP: 10
+Effect: Changes the opponent's Ability to Insomnia.
+Chance: -
+
+[Wrap]
+Type: Normal
+Category: Physical
+Power: 15
+Accuracy: 90
+PP: 20
+Effect: Traps opponent, damaging them for 4-5 turns.
+Chance: -
+
+[Wring Out]
+Type: Normal
+Category: Special
+Power: -
+Accuracy: 100
+PP: 5
+Effect: The higher the opponent's HP, the higher the damage.
+Chance: -
+
+[X-Scissor]
+Type: Bug
+Category: Physical
+Power: 80
+Accuracy: 100
+PP: 15
+Effect:  
+Chance: -
+
+[Yawn]
+Type: Normal
+Category: Status
+Power: -
+Accuracy: -
+PP: 10
+Effect: Puts opponent to sleep in the next turn.
+Chance: -
+
+[Zap Cannon]
+Type: Electric
+Category: Special
+Power: 120
+Accuracy: 50
+PP: 5
+Effect: Paralyzes opponent.
+Chance: 100
+
+[Zen Headbutt]
+Type: Psychic
+Category: Physical
+Power: 80
+Accuracy: 90
+PP: 15
+Effect: May cause flinching.
+Chance: 20
